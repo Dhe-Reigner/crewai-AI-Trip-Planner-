@@ -44,3 +44,20 @@ Plan your dream trip to Kenya using AI. Just provide your starting city, preferr
 
 ## 📂 Project Structure
 
+├── crewai_travel_planner/
+│ ├── agents/
+│ │ ├── flight_agent.py
+│ │ ├── accommodation_agent.py
+│ │ ├── itinerary_agent.py
+│ │ ├── local_info_agent.py
+│ │ ├── budget_agent.py
+│ │ └── planner_agent.py
+│ ├── tasks/
+│ │ └── travel_tasks.py
+│ ├── tools/
+│ │ └── api_wrappers.py
+│ ├── main.py
+│ └── config/
+│ └── settings.py
+├── requirements.txt
+└── README.md
