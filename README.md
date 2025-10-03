@@ -61,3 +61,46 @@ Plan your dream trip to Kenya using AI. Just provide your starting city, preferr
 │ └── settings.py
 ├── requirements.txt
 └── README.md
+
+
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/crewai-travel-planner.git
+cd crewai-travel-planner
+```
+### 2. Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+### 3. Install dependencies
+pip install -r requirements.txt
+
+### 4. Run the application
+crewai run
+
+
+🧪 Example Inputs
+        from_city:         Michigan
+        destination_city:  Nairobi
+        date_from:         17th October 2025
+        date_to:           29th October 2025
+        interests:         wildlife,safaris,culture
+        budget:            $5900
+
+🟰 Expected output:
+
+Suggested round-trip flights (NYC ↔ Mombasa)
+
+10-day itinerary: beach days, Swahili cuisine, Fort Jesus tour
+
+Recommended Airbnbs and hotels
+
+Total budget estimate (flights, food, accommodation, activities)
+
+Local tips on weather and customs
