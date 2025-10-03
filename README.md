@@ -43,7 +43,7 @@ Plan your dream trip to Kenya using AI. Just provide your starting city, preferr
 ---
 
 ## 📂 Project Structure
-
+```
 ├── crewai_travel_planner/
 │ ├── agents/
 │ │ ├── flight_agent.py
@@ -61,7 +61,7 @@ Plan your dream trip to Kenya using AI. Just provide your starting city, preferr
 │ └── settings.py
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ---
