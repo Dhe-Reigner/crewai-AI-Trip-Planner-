@@ -1,0 +1,71 @@
+flight_task:
+  description: >
+    Search for available flights from specified US cities (e.g., New York, Chicago, Los Angeles) "
+        "to Kenyan airports such as Nairobi (NBO), Kisumu(KSM),RiftValley(RFV),Maasai Mara(MM),Mount Kenya(MTK),Diani(D) and Mombasa (MBA). "
+        "Provide flight options including departure/arrival times, airlines, duration, and prices."
+
+            {from_city}
+            {destination_city}
+            {date_from}
+            {date_to}
+  expected_output: >
+    "In markdown format:A detailed markdown report a list of flight options with details like airline name, flight number, departure/arrival times, duration, and price."
+  agent: flight_Agent
+
+accommodation_task:
+  description: >
+    "Based on the users {budget},{interests} Find and recommend accommodation options in Kenya based on traveler preferences such as budget, location, "
+        "and accommodation type (hotel, Airbnb). Include ratings and approximate costs."
+  expected_output: >
+    "A curated markdown report of accommodation options with name, type, location, price range, and guest ratings."
+  agent: accommodation_Agent
+
+itinerary_task:
+  description: >
+    "Based on the users {interests}, create a detailed markdown report on daily itinerary for a trip to Kenya including must-see attractions, activities, "
+        "meal recommendations, and estimated time allocation per activity."
+  expected_output: >
+    "A day-by-day markdown report of itinerary with timings, places to visit, activity descriptions, and dining options."
+  agent: itinerary_Agent
+
+local_info_task:
+  description: >
+   "Based on the users {interests} and {budget} Provide a markdown report  essential local travel information for Kenya including current currency exchange rates, weather forecasts, "
+        "safety advisories, and cultural tips.
+  expected_output: >
+    "A markdown report for a  comprehensive local travel guide containing currency details, weather summary for the trip dates, "
+        "safety notices, and important cultural etiquette to familiarize the user to the local inhabitance and destinations."
+  agent: local_info_Agent
+
+budget_task:
+  description: >
+    Based on the user's:
+        From City: {from_city}
+        Destination City: {destination_city}
+        Departure Date: {date_from}
+        Return Date: {date_to}
+        Interests: {interests}
+        Budget: {budget}
+    Estimate the overall trip budget by calculating expected expenses for flights, accommodation, food, transportation, and activities. Provide an expense tracking markdown report.
+    """
+  expected_output: >
+    "A detailed budget estimation markdown report including cost breakdown and a tracking sheet for actual expenses."
+  agent: budget_Agent
+
+planner_task:
+  description: >
+   This task synthesizes all collected information: 
+    {from_city}
+    {destination_city}
+    {date_from}
+    {date_to}
+    {interests}
+    {budget}
+     into a detailed markdown report
+  expected_output: >
+   A rich markdown document with emojis on each title and subtitle, that:
+    in markdown format:
+    Gives the estimated travel time from city of origin {from_city} to destination {destination_city},
+    The suggested places based on their {interests}, estimated costs based on the itinerary that can fit their budget.
+    """,
+  agent: planner_Agent
