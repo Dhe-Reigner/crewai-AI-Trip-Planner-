@@ -104,3 +104,29 @@ Recommended Airbnbs and hotels
 Total budget estimate (flights, food, accommodation, activities)
 
 Local tips on weather and customs
+
+
+📄 License
+
+This project is licensed under the MIT License.
+
+🤝 Contributing
+
+Pull requests are welcome! If you’d like to contribute a new agent, improve prompts, or integrate new APIs, feel free to fork the repo and submit a PR.
+
+🧠 Inspiration
+
+This project was inspired by the need for intelligent, modular, and personalized travel planning — reducing the hassle and time spent manually researching different parts of a trip. CrewAI’s agent-based system provides a perfect architecture for such collaboration.
+
+🌐 Connect
+
+Twitter: @yourhandle
+
+LinkedIn: Your Name
+
+Project Demo (Coming soon...)
+
+
+---
+
+Would you like me to help you scaffold this structure in code as well (i.e., agents, tasks, `main.py`, etc.)? I can give you a project boilerplate tailored to this use case.
