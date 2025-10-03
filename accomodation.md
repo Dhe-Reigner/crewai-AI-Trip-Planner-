@@ -1,72 +1,84 @@
-Hello! As your Accommodation Finder, I've analyzed your preferences for wildlife, safaris, and culture, along with your remaining budget of approximately **$2,900 for accommodation** (after accounting for estimated flight costs for two people). I have curated a selection of highly-rated hotels, safari camps, and unique stays across key Kenyan destinations that will provide an unforgettable experience.
+As your Accommodation Finder, I have analyzed your travel preferences for a trip to Kenya centered around wildlife, safaris, and culture, with a total budget of $5,900 for your stay from October 17th to October 29th, 2025.
 
-This report is structured as a suggested itinerary to maximize your time and interests, moving from the cultural hub of Nairobi to the iconic plains of the Maasai Mara, and finally to the serene landscapes of Lake Naivasha.
+Based on the flight estimates provided (~$1,500), you have a substantial budget of approximately **$4,400** for your 12 nights in Kenya. This allows for a fantastic itinerary covering accommodation, a comprehensive safari package, park fees, and other activities.
 
-***
-
-### **Curated Accommodation Report for Your Kenyan Safari**
-
-This plan is designed for an 11-night stay, leaving a comfortable buffer within your $2,900 accommodation budget.
+I have curated a list of recommended accommodations structured around a classic Kenyan safari circuit. This itinerary begins in Nairobi, moves to the world-renowned Maasai Mara, offers a change of pace at Lake Naivasha, and finishes with iconic views in Amboseli National Park before returning to Nairobi for your departure. The selected options range from excellent value Airbnbs to immersive safari lodges, all highly rated for their service, location, and experience.
 
 ---
 
-### **Part 1: Nairobi - Arrival & Cultural Immersion (2-3 Nights)**
+### **Curated Accommodation Report: Kenya Wildlife & Culture Itinerary**
 
-Nairobi is the perfect starting point to acclimate and explore Kenya's vibrant culture and urban wildlife attractions like the Giraffe Centre and the David Sheldrick Wildlife Trust. These options are located in safe, convenient neighborhoods.
-
-| Name | Type | Location | Price Range (per night) | Guest Rating |
-| :--- | :--- | :--- | :--- | :--- |
-| **The Social House Nairobi** | Boutique Hotel | Lavington | $180 - $250 USD | 9.2/10 on Booking.com |
-| **Tamarind Tree Hotel** | Modern Hotel | Langata | $160 - $220 USD | 9.0/10 on Booking.com |
-| **Private Garden Cottage** | Airbnb | Karen | $100 - $150 USD | 4.95/5 (Superhost) |
-
-**Expert Analysis:**
-*   **The Social House** is perfect for those who enjoy a vibrant, modern atmosphere with fantastic restaurants on-site. It's centrally located between different points of interest.
-*   **Tamarind Tree Hotel** is right next to the famous Carnivore Restaurant and Wilson Airport (for domestic safari flights), making it exceptionally convenient for your onward journey. Its resort-style pool is great for relaxing after a long flight.
-*   The **Airbnb in Karen** offers a more local, quiet, and budget-friendly experience. The Karen neighborhood is known for its safety, greenery, and proximity to attractions like the Karen Blixen Museum and Giraffe Centre.
+This report is based on a suggested 12-night itinerary:
+*   **Nights 1-2:** Nairobi (Arrival & Acclimatization)
+*   **Nights 3-6:** Maasai Mara National Reserve (Core Safari Experience)
+*   **Nights 7-8:** Lake Naivasha (Active Exploration)
+*   **Nights 9-10:** Amboseli National Park (Elephants & Kilimanjaro Views)
+*   **Nights 11-12:** Nairobi (Cultural Exploration & Departure)
 
 ---
 
-### **Part 2: Maasai Mara - The Ultimate Safari (4-5 Nights)**
+### **1. Nairobi Accommodations (Arrival & Departure)**
 
-This is the heart of your wildlife adventure. The following camps are renowned for their exceptional locations for game viewing, knowledgeable guides, and authentic safari atmosphere. Prices for safari camps often include all meals (full board) and scheduled game drives, offering excellent value.
+Nairobi serves as your gateway. I recommend staying in secure and convenient neighborhoods like Karen, Westlands, or Kilimani.
 
-| Name | Type | Location | Price Range (per night) | Guest Rating |
+| Name | Type | Location | Approx. Price (Nightly) | Guest Rating |
 | :--- | :--- | :--- | :--- | :--- |
-| **Ashnil Mara Camp** | Luxury Tented Camp | Maasai Mara National Reserve | $400 - $550 USD (Full Board) | 9.0/10 on Booking.com |
-| **Basecamp Masai Mara** | Eco-Tented Camp | Talek, Private Conservancy | $350 - $480 USD (Full Board) | 9.4/10 on Booking.com |
-| **Sarova Mara Game Camp** | Lodge & Tented Camp | Maasai Mara National Reserve | $380 - $500 USD (Full Board) | 8.8/10 on TripAdvisor |
+| **Palacina Residence & Suites** | Boutique Hotel | Kilimani | $180 - $250 USD | **9.0/10** (Booking.com) |
+| **Wildebeest Eco Camp** | Glamping / Guesthouse | Karen | $90 - $150 USD | **8.8/10** (Hostelworld/TripAdvisor) |
+| **Modern Apartment w/ Pool** | Airbnb | Kilimani / Westlands | $75 - $125 USD | **4.9/5+** (Superhost Listings) |
 
-**Expert Analysis:**
-*   **Ashnil Mara Camp** boasts a stunning location directly on the Mara River, putting you in a prime position to witness river crossings if your timing aligns with the end of the Great Migration. It offers a blend of luxury and adventure.
-*   **Basecamp Masai Mara** is a fantastic choice for culturally and environmentally conscious travelers. It's run in partnership with the local Maasai community, offering authentic cultural interactions alongside incredible wildlife viewing in a more exclusive private conservancy setting.
-*   **Sarova Mara Game Camp** is one of the classic, well-established lodges in the Mara. It's a larger property with extensive grounds and options for both luxury tents and rooms, known for its reliability and excellent service.
+**Specialist Notes:**
+*   **Palacina** offers apartment-style luxury and comfort, perfect for recovering from a long flight.
+*   **Wildebeest Eco Camp** provides a unique, budget-friendly "safari feel" within the city, located conveniently for attractions like the Giraffe Centre.
+*   An **Airbnb** in Kilimani or Westlands offers excellent value, security, and amenities like pools and gyms, giving you a local's perspective.
 
 ---
 
-### **Part 3: Lake Naivasha - Serene Landscapes & Unique Safaris (2 Nights)**
+### **2. Maasai Mara National Reserve (Safari)**
 
-A perfect interlude between safaris. Lake Naivasha offers different activities, including boat safaris to see hippos and birds, as well as walking or cycling safaris among giraffes and zebras in nearby Crescent Island or Hell's Gate National Park.
+For the core of your wildlife experience, I recommend booking a 4-night safari package with a reputable local operator. This is the most practical and cost-effective approach. The price typically includes transport from Nairobi, a 4x4 vehicle with a guide, park fees, meals, and accommodation. Below are highly-rated camps often featured in mid-range to luxury packages.
 
-| Name | Type | Location | Price Range (per night) | Guest Rating |
+| Name | Type | Location | Approx. Price (Part of Package) | Guest Rating |
 | :--- | :--- | :--- | :--- | :--- |
-| **Lake Naivasha Sopa Resort** | Lakeside Resort | South Lake Road, Naivasha | $200 - $280 USD | 8.7/10 on Booking.com |
-| **Sawela Lodges** | Lodge | South Lake Road, Naivasha | $180 - $250 USD | 8.5/10 on Booking.com |
-| **Loldia House** | Colonial Farmhouse | North Lake Road, Naivasha | $500 - $650+ USD (All-inclusive) | 4.8/5 on Google Reviews|
+| **Ashnil Mara Camp** | Luxury Tented Camp | Mara River, Maasai Mara | $450 - $600 USD | **9.1/10** (Booking.com) |
+| **Basecamp Masai Mara** | Eco-Tented Camp | Talek, Private Conservancy | $400 - $550 USD | **9.4/10** (TripAdvisor) |
+| **Keekorok Lodge** | Safari Lodge | Inside Maasai Mara Reserve | $350 - $500 USD | **8.6/10** (Booking.com) |
 
-**Expert Analysis:**
-*   **Lake Naivasha Sopa Resort** is set in beautiful, sprawling grounds where giraffes, waterbucks, and monkeys roam freely. It provides a classic, comfortable resort experience with easy access to the lake.
-*   **Sawela Lodges** offers a modern and relaxed atmosphere with excellent facilities and a strong focus on hospitality. It's another great base for exploring the area's attractions.
-*   **Loldia House** is a premium, historic option for a touch of classic safari elegance and exclusivity. While at the top end of your budget, it offers an all-inclusive experience with personalized service on a private ranch.
+**Specialist Notes:**
+*   **Ashnil Mara** is perfectly positioned for prime game viewing and offers a luxurious tented experience.
+*   **Basecamp Masai Mara** is an exceptional choice for your interest in culture. It is community-owned and focused on sustainability, offering authentic interactions with the local Maasai community.
+*   **Keekorok Lodge** is one of the oldest and most established lodges, offering a classic safari experience in a central, wildlife-rich location.
 
-***
+---
 
-### **Sample Budget Breakdown (11 Nights for 2 People):**
+### **3. Lake Naivasha**
 
-*   **Nairobi (3 nights):** 3 x $180 (Tamarind Tree) = **$540**
-*   **Maasai Mara (4 nights):** 4 x $450 (Basecamp) = **$1800**
-*   **Lake Naivasha (2 nights):** 2 x $220 (Sopa Resort) = **$440**
-*   **Nairobi (Final night near airport):** 1 x $120 = **$120**
-*   **Estimated Total:** **$2,900**
+A perfect mid-trip break from long game drives. This area offers boat safaris to see hippos and birds, as well as walking or cycling safaris in nearby Crescent Island or Hell's Gate National Park.
 
-This itinerary fits perfectly within your budget and ensures a journey filled with incredible wildlife sightings, rich cultural engagement, and comfortable, safe, and highly-rated accommodations. I recommend booking safari lodges well in advance, as they are in high demand. Enjoy your planning
+| Name | Type | Location | Approx. Price (Nightly) | Guest Rating |
+| :--- | :--- | :--- | :--- | :--- |
+| **Lake Naivasha Sopa Resort** | Resort Lodge | South Lake Road | $250 - $350 USD | **8.8/10** (Booking.com) |
+| **Sanctuary Farm** | Guesthouse | Moi North Lake Road | $150 - $200 USD | **9.2/10** (TripAdvisor) |
+| **Loldia House** | Colonial Farmhouse | Moi North Lake Road | $200 - $300 USD | **9.5/10** (Audley Travel) |
+
+**Specialist Notes:**
+*   **Sopa Resort** is known for its beautiful, expansive grounds where giraffes, zebras, and waterbucks roam freely.
+*   **Sanctuary Farm** offers a more intimate and rustic experience on a private conservancy, allowing for incredible freedom to walk or horseback ride among wildlife.
+*   **Loldia House** provides a touch of colonial history and elegance with stunning lake views.
+
+---
+
+### **4. Amboseli National Park**
+
+Amboseli is famed for its large herds of elephants and the breathtaking backdrop of a snow-capped Mount Kilimanjaro just across the border in Tanzania.
+
+| Name | Type | Location | Approx. Price (Nightly) | Guest Rating |
+| :--- | :--- | :--- | :--- | :--- |
+| **Ol Tukai Lodge Amboseli** | Safari Lodge | Inside Amboseli NP | $350 - $500 USD | **9.0/10** (Booking.com) |
+| **Amboseli Serena Safari Lodge** | Safari Lodge | Inside Amboseli NP | $400 - $550 USD | **8.9/10** (Booking.com) |
+| **Kibo Safari Camp** | Tented Camp | Outside Park Gate | $250 - $400 USD | **8.7/10** (Booking.com) |
+
+**Specialist Notes:**
+*   **Ol Tukai Lodge** is arguably the best-positioned lodge for the quintessential photo of elephants with Kilimanjaro in the background.
+*   **Amboseli Serena** offers reliable luxury and service, with Maasai-inspired architecture that blends beautifully into the landscape.
+*   **Kibo Safari Camp** provides a fantastic and more affordable tented camp experience with its own spectacular, unobstructed views of the mountain.

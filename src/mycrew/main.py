@@ -6,6 +6,7 @@ from datetime import datetime
 
 from mycrew.crew import Mycrew
 
+
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
 # This main file is intended to be a way for you to run your
@@ -13,10 +14,14 @@ warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 # Replace with inputs you want to test with, it will automatically
 # interpolate any tasks and agents information
 
-def run():
+
+
+def run(self):
     """
     Run the crew.
     """
+
+
     inputs = {
         "from_city":"Michigan",
         "destination_city":"Nairobi",
@@ -27,11 +32,12 @@ def run():
         # 'topic': 'AI LLMs',
         # 'current_year': str(datetime.now().year)
     }
-    
+
     try:
         Mycrew().crew().kickoff(inputs=inputs)
     except Exception as e:
         raise Exception(f"An error occurred while running the crew: {e}")
+
 
 
 def train():
@@ -84,3 +90,4 @@ def test():
 
     except Exception as e:
         raise Exception(f"An error occurred while testing the crew: {e}")
+

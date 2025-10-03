@@ -1,142 +1,171 @@
-Of course. As your Daily Itinerary Planner, I have synthesized the flight and accommodation data to create a detailed, day-by-day itinerary for your 11-night trip to Kenya. This plan is perfectly tailored to your interests in wildlife, safaris, and culture, ensuring a balanced pace with incredible experiences.
+Of course! As your Daily Itinerary Planner, I have designed a comprehensive 12-day itinerary for your trip to Kenya, perfectly aligned with your interests in wildlife, safaris, and culture. This plan is based on your arrival on October 18th, 2025, and departure on October 29th, 2025, maximizing every moment while ensuring a comfortable pace.
 
-This itinerary is based on the "Best Value" Turkish Airlines flight, arriving in Nairobi (NBO) very early on Sunday, October 19th, and departing early on Wednesday, October 29th, 2025.
-
-Here is your personalized daily itinerary:
-
-***
-
-### **Your Detailed 11-Night Kenya Wildlife & Culture Itinerary**
+Here is your detailed daily plan:
 
 ---
 
-### **Part 1: Nairobi - Culture, Conservation & Acclimatization**
+### **Kenya Wildlife, Safari & Culture Expedition: A 12-Day Itinerary**
 
-**Day 1: Sunday, October 19, 2025 - Arrival and Gentle Introduction**
-*   **12:45 AM:** Arrive at Jomo Kenyatta International Airport (NBO).
-*   **1:00 AM - 2:30 AM (1.5 hours):** Proceed through immigration (have your pre-approved eTA ready), collect your luggage, and meet your pre-booked driver/transfer service.
-*   **2:30 AM - 3:15 AM (45 mins):** Transfer to the **Tamarind Tree Hotel**. Check in and get some well-deserved rest after your long journey.
-*   **10:00 AM:** Enjoy a late and leisurely breakfast at the hotel.
-*   **11:00 AM - 2:00 PM (3 hours):** Relax by the hotel pool or in your room, allowing yourselves to acclimatize to the new time zone and altitude.
-*   **2:30 PM - 4:30 PM (2 hours):** Visit the **Giraffe Centre**. Here, you'll have the unforgettable experience of hand-feeding endangered Rothschild's giraffes from an elevated platform. It's a fantastic, interactive conservation experience.
-*   **Meal Recommendations:**
-    *   **Breakfast:** Tamambo Restaurant (at the hotel)
-    *   **Lunch:** Casual bite at the hotel or a snack after the Giraffe Centre.
-    *   **Dinner (7:00 PM):** **The Carnivore Restaurant**. Located next to your hotel, this is an iconic Kenyan dining experience. Enjoy a "Nyama Choma" (barbecued meat) feast featuring exotic meats like ostrich and crocodile, carved tableside.
+This itinerary is designed to immerse you in Kenya's most iconic landscapes, from the vibrant city of Nairobi to the legendary plains of the Maasai Mara and the elephant-filled vistas of Amboseli.
 
 ---
 
-**Day 2: Monday, October 20, 2025 - Urban Wildlife & Local Culture**
-*   **9:00 AM - 10:00 AM (1 hour):** Breakfast at the hotel.
-*   **10:15 AM - 12:30 PM (2.25 hours):** Head to the **Sheldrick Wildlife Trust** elephant orphanage. The public viewing is strictly from 11:00 AM to 12:00 PM. Watch the adorable baby elephants during their feeding and mud bath, and learn about the trust's vital rescue and rehabilitation efforts.
-*   **1:00 PM - 2:30 PM (1.5 hours):** Visit the **Karen Blixen Museum**, the farmhouse where the author of "Out of Africa" lived. A guided tour offers a glimpse into colonial Kenyan history.
-*   **3:00 PM - 5:00 PM (2 hours):** Immerse yourself in local craftsmanship at the **Maasai Market**. Browse a vibrant array of handmade jewelry, sculptures, and fabrics. *(Note: The market's location changes daily; your guide/driver will know where it is on a Monday)*.
-*   **Meal Recommendations:**
-    *   **Breakfast:** Hotel
-    *   **Lunch (12:30 PM):** **Talisman Restaurant** in Karen. A beautiful, garden-set restaurant known for its delicious fusion cuisine and artsy ambiance.
-    *   **Dinner (7:30 PM):** **About Thyme**. A charming and intimate restaurant with eclectic international dishes and a romantic setting.
+### **Day 1: Saturday, October 18, 2025 - Arrival in Nairobi**
+
+*   **Location:** Nairobi
+*   **Focus:** Arrival, rest, and acclimatization.
+
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| **8:40 PM** | **Arrival at Jomo Kenyatta International Airport (NBO)** | After your long journey, you'll clear immigration (ensure your e-Visa is pre-approved), collect your luggage, and be greeted by your pre-arranged driver in the arrivals hall. |
+| **9:45 PM - 10:30 PM** | **Transfer & Hotel Check-in** | A comfortable 45-60 minute drive will take you to your hotel. We recommend **Palacina Residence & Suites** in Kilimani for a luxurious and restorative first night. |
+| **10:30 PM onwards** | **Dinner & Rest** | Settle in and enjoy a light, late dinner at the hotel's restaurant or via room service. The priority tonight is to rest and recover from your travels. |
 
 ---
 
-**Day 3: Tuesday, October 21, 2025 - Art, Community & Safari Prep**
-*   **9:00 AM - 10:00 AM (1 hour):** Breakfast at the hotel.
-*   **10:30 AM - 12:00 PM (1.5 hours):** Visit the **Kazuri Beads Factory**. Take a free tour to see how local women, many of whom are single mothers, create beautiful, handmade ceramic beads and pottery. It's a powerful social enterprise and a great place for unique souvenirs.
-*   **12:30 PM - 4:00 PM (3.5 hours):** Experience Kenyan culture at the **Bomas of Kenya**. Enjoy energetic traditional music and dance performances from Kenya's diverse ethnic groups, followed by a tour of replica traditional homesteads.
-*   **4:00 PM onwards:** Return to the hotel to relax and pack for your safari adventure tomorrow.
-*   **Meal Recommendations:**
-    *   **Breakfast:** Hotel
-    *   **Lunch (during Bomas visit):** Have lunch at the on-site restaurant serving local Kenyan dishes.
-    *   **Dinner (7:00 PM):** Enjoy a final Nairobi dinner at the hotel's **Tamambo Restaurant** for convenience before your early start.
+### **Day 2: Sunday, October 19, 2025 - Nairobi's Conservation & Culture**
+
+*   **Location:** Nairobi (Karen & Lang'ata)
+*   **Focus:** Up-close wildlife encounters and local cultural crafts.
+
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| **8:00 AM - 9:00 AM** | **Leisurely Breakfast** | Enjoy a full breakfast at your hotel to energize for the day ahead. |
+| **9:30 AM - 12:30 PM** | **Sheldrick Wildlife Trust & Giraffe Centre** | Begin with a heartwarming visit to the **Sheldrick Wildlife Trust** to watch baby elephants during their 11 AM public feeding. Afterwards, head to the nearby **Giraffe Centre** to hand-feed endangered Rothschild's giraffes from an elevated platform. |
+| **1:00 PM - 2:30 PM** | **Lunch Recommendation: The Talisman** | Dine at The Talisman Restaurant in Karen, a celebrated eatery known for its beautiful garden setting and pan-Asian, African, and European fusion cuisine. |
+| **2:30 PM - 5:00 PM** | **Karen Blixen Museum & Kazuri Beads** | Step back in time at the **Karen Blixen Museum**, the farmhouse made famous by the book and film "Out of Africa." Then, visit the **Kazuri Beads Factory**, a social enterprise supporting disadvantaged local women who create beautiful, handmade ceramic beads and pottery. |
+| **6:30 PM onwards** | **Dinner Recommendation: Carnivore** | For a truly unique Kenyan dining experience, head to **Carnivore**. Famous for its "Beast of a Feast," this open-air restaurant serves a variety of exotic meats roasted on traditional Maasai swords over a charcoal pit. A vegetarian menu is also available. |
 
 ---
 
-### **Part 2: Maasai Mara - The Quintessential Safari**
+### **Day 3: Monday, October 20, 2025 - Journey to the Maasai Mara**
 
-**Day 4: Wednesday, October 22, 2025 - Journey to the Mara**
-*   **7:00 AM:** Early breakfast and check-out from your hotel.
-*   **8:00 AM - 2:00 PM (6 hours):** Begin the scenic road journey to the Maasai Mara. Your driver will make a stop at the **Great Rift Valley Viewpoint** for breathtaking photos.
-*   **2:00 PM:** Arrive at **Basecamp Masai Mara**. You'll be welcomed with refreshments and checked into your authentic safari tent.
-*   **2:00 PM - 3:30 PM (1.5 hours):** Enjoy a delicious lunch at the camp and settle in.
-*   **4:00 PM - 6:30 PM (2.5 hours):** Embark on your very first **evening game drive** in the private conservancy. Your expert Maasai guide will help you track wildlife as the sun begins to set.
-*   **6:30 PM:** Stop for a classic safari **sundowner**—drinks and snacks enjoyed in the bush while watching the sunset.
-*   **Meal Recommendations (All included at Basecamp):**
-    *   **Breakfast:** Tamarind Tree Hotel
-    *   **Lunch:** Basecamp Masai Mara
-    *   **Dinner (7:30 PM):** A communal dinner at the camp, sharing stories of the day's sightings with other guests.
+*   **Location:** Nairobi to Maasai Mara National Reserve
+*   **Focus:** Scenic drive and first safari game drive.
 
----
-
-**Day 5: Thursday, October 23, 2025 - Full Day of Wildlife Viewing**
-*   **6:00 AM:** Wake-up call with coffee/tea delivered to your tent.
-*   **6:30 AM - 9:30 AM (3 hours):** **Morning game drive**. This is the best time to see predators like lions, cheetahs, and leopards, who are most active in the cool morning air.
-*   **9:30 AM:** Return to camp for a hearty breakfast.
-*   **10:30 AM - 1:00 PM (2.5 hours):** Free time. Relax in your tent overlooking the Talek River, read a book, or watch for animals visiting the riverbank.
-*   **4:00 PM - 6:30 PM (2.5 hours):** **Evening game drive**. Explore a different region of the reserve, seeking out elephants, giraffes, buffalo, and the vast herds of plains game.
-*   **Meal Recommendations:**
-    *   **Breakfast, Lunch, Dinner:** All hosted at Basecamp Masai Mara.
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| **7:30 AM** | **Breakfast & Check-out** | After breakfast, your safari guide will meet you at the hotel for your journey south. |
+| **8:00 AM - 1:00 PM** | **Drive to Maasai Mara** | This 5-6 hour drive is an experience in itself. You will make a stop at the **Great Rift Valley Viewpoint** for breathtaking photos of the valley floor. |
+| **1:00 PM - 3:30 PM** | **Arrival, Check-in, and Lunch** | Arrive at your safari camp. We recommend **Basecamp Masai Mara** for its authentic cultural connection and eco-friendly ethos. Settle into your tent, enjoy a delicious lunch, and relax. |
+| **3:30 PM - 6:30 PM** | **Afternoon Game Drive** | Embark on your first game drive in the legendary Maasai Mara! Your guide will help you spot the abundant wildlife, which includes lions, leopards, elephants, giraffes, and vast herds of plains game. |
+| **7:30 PM** | **Dinner at the Camp** | Return to camp as the sun sets. Share stories from your game drive over a hearty dinner, with the sounds of the African bush as your soundtrack. |
 
 ---
 
-**Day 6: Friday, October 24, 2025 - Mara Immersion & Maasai Culture**
-*   **6:30 AM - 3:00 PM (8.5 hours):** Opt for a **full-day game drive** into the main Maasai Mara National Reserve. With a packed picnic lunch, you can travel further, searching for the Big Five and possibly catching the tail-end of the Great Migration's river crossings at the Mara River.
-*   **Alternatively, after a morning game drive:**
-*   **2:30 PM - 4:30 PM (2 hours):** Participate in a **Maasai community visit**. Basecamp has a genuine partnership with the local community, offering an authentic and respectful visit to a traditional village (Manyatta) where you can learn about their customs, homes, and way of life.
-*   **Meal Recommendations:**
-    *   **Breakfast:** Basecamp Masai Mara
-    *   **Lunch:** Picnic lunch in the reserve or back at the camp.
-    *   **Dinner:** At the camp, perhaps accompanied by a talk from a resident naturalist.
+### **Days 4 & 5: Tuesday, Oct 21 & Wednesday, Oct 22, 2025 - Full Days in the Maasai Mara**
+
+*   **Location:** Maasai Mara National Reserve
+*   **Focus:** Immersive wildlife viewing and exploration.
+
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| **6:00 AM** | **Morning Wake-up Call** | Wake up with coffee/tea and biscuits before heading out. |
+| **6:30 AM - 12:00 PM** | **Morning Game Drive** | The early morning offers the best light for photography and is when predators are most active. Search for big cats on the hunt and witness the savanna coming to life. |
+| **12:30 PM - 3:30 PM** | **Lunch & Leisure Time** | Return to the camp for a full lunch. The early afternoon is the hottest part of the day, perfect for a nap, reading, or enjoying the camp's amenities. |
+| **3:30 PM - 6:30 PM** | **Afternoon Game Drive** | Head out again to explore a different area of the reserve. Your guide's expertise will lead you to new sightings and hidden corners of the Mara. |
+| **6:30 PM onwards** | **Sundowners & Dinner** | One evening, enjoy a classic "sundowner" – cocktails and snacks served in a scenic spot in the bush while watching the sunset. Dinner follows back at the camp. *On Day 5, consider a full-day game drive with a picnic lunch to explore further afield, perhaps towards the Mara River.* |
 
 ---
 
-**Day 7: Saturday, October 25, 2025 - A Different Perspective of the Mara**
-*   **5:30 AM - 9:30 AM (4 hours):** **Optional Hot Air Balloon Safari** (pre-booking essential, additional cost). Experience the magic of floating silently over the Mara plains at sunrise, followed by a champagne bush breakfast upon landing. This is a truly once-in-a-lifetime experience.
-*   **If not doing the balloon safari:** Enjoy a final **morning game drive** or a **guided nature walk** around the camp to learn about smaller ecosystems, animal tracks, and traditional plant uses.
-*   **Afternoon:** Relax and enjoy the final afternoon at the camp, soaking in the sights and sounds of the African bush.
-*   **Meal Recommendations:**
-    *   **Breakfast:** Champagne bush breakfast (balloon) or at the camp.
-    *   **Lunch & Dinner:** At Basecamp Masai Mara. Enjoy a special farewell dinner.
+### **Day 6: Thursday, October 23, 2025 - Maasai Culture & Final Mara Views**
+
+*   **Location:** Maasai Mara National Reserve
+*   **Focus:** Cultural immersion and an optional bird's-eye view.
+
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| **5:00 AM - 9:30 AM** | **Optional: Hot Air Balloon Safari** | For a truly unforgettable experience, take a pre-dawn hot air balloon flight over the Mara plains, followed by a champagne bush breakfast upon landing. (This must be pre-booked). |
+| **6:30 AM - 9:30 AM** | **Alternative: Morning Game Drive** | If not taking the balloon, enjoy one final morning game drive to track any animals you may have missed. |
+| **10:00 AM - 1:00 PM** | **Brunch & Relaxation** | Enjoy a late brunch back at the camp and some free time. |
+| **2:30 PM - 4:30 PM** | **Maasai Village Visit** | Immerse yourself in the local culture with a visit to a nearby Maasai community. You will be welcomed into a traditional homestead (*manyatta*), learn about their semi-nomadic lifestyle, witness a vibrant traditional dance, and have the opportunity to purchase authentic crafts. |
+| **7:00 PM** | **Farewell Mara Dinner** | Enjoy your last dinner in this magical place. |
 
 ---
 
-### **Part 3: Lake Naivasha & Departure**
+### **Day 7: Friday, October 24, 2025 - Mara to Lake Naivasha**
 
-**Day 8: Sunday, October 26, 2025 - From Savannah to Lake**
-*   **7:00 AM:** One last short game drive if you wish, followed by breakfast.
-*   **9:30 AM:** Check out from Basecamp and begin the drive to Lake Naivasha (approx. 4-5 hours).
-*   **2:00 PM:** Arrive and check into **Lake Naivasha Sopa Resort**.
-*   **2:00 PM - 3:00 PM (1 hour):** Have lunch at the resort's restaurant.
-*   **3:00 PM onwards:** Relax and explore the resort's expansive grounds. It's common to see giraffes, waterbucks, vervet monkeys, and even hippos (at a safe distance in the evening) grazing on the lawns.
-*   **Meal Recommendations:**
-    *   **Breakfast:** Basecamp Masai Mara
-    *   **Lunch & Dinner:** At Lake Naivasha Sopa Resort.
+*   **Location:** Maasai Mara to Lake Naivasha
+*   **Focus:** A change of scenery to the freshwater lakes of the Rift Valley.
 
----
-
-**Day 9: Monday, October 27, 2025 - Active Lake Adventures**
-*   **8:30 AM - 12:30 PM (4 hours):** Take a **boat safari on Lake Naivasha**. Get up close to pods of hippos and see an incredible variety of birdlife, including fish eagles and pelicans. The boat will drop you at **Crescent Island Game Sanctuary**, where you can take a guided **walking safari** among non-predatory animals like giraffes, zebras, and wildebeest.
-*   **1:00 PM - 2:30 PM (1.5 hours):** Enjoy lunch at a rustic lakeside restaurant.
-*   **3:00 PM - 5:30 PM (2.5 hours):** Explore **Hell's Gate National Park**. Hire bicycles at the entrance and cycle through the stunning gorge landscape that inspired Disney's *The Lion King*.
-*   **Meal Recommendations:**
-    *   **Breakfast:** Lake Naivasha Sopa Resort
-    *   **Lunch:** **Carnelley's Camp** or **Sanctuary Farm** for a casual, scenic meal.
-    *   **Dinner:** Back at the resort.
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| **7:00 AM** | **Breakfast** | Enjoy an early breakfast before departing. |
+| **8:00 AM - 12:30 PM** | **Drive to Lake Naivasha** | The scenic drive takes approximately 4-5 hours. You'll descend further into the Great Rift Valley towards the beautiful freshwater lake. |
+| **12:30 PM - 3:00 PM** | **Check-in & Lunch at Sanctuary Farm** | Arrive and check into **Sanctuary Farm**, known for its intimate setting and free-roaming wildlife. Enjoy lunch with views of the grounds. |
+| **3:30 PM - 5:30 PM** | **Boat Safari on Lake Naivasha** | Take a guided boat tour on the lake. This is a birdwatcher's paradise, and you'll get incredibly close to hippos wallowing in the shallows and witness the majestic African fish eagle hunting. |
+| **7:00 PM** | **Dinner** | Dine at the guesthouse. Afterwards, enjoy the unique experience of having giraffes, zebras, and waterbucks grazing right outside your room. |
 
 ---
 
-**Day 10: Tuesday, October 28, 2025 - Return to Nairobi & Farewell**
-*   **8:00 AM - 10:00 AM (2 hours):** Enjoy a final, leisurely breakfast and one last walk around the beautiful resort grounds.
-*   **10:00 AM:** Check out and begin the drive back to Nairobi (approx. 2.5 hours).
-*   **1:00 PM:** Arrive in Nairobi. Consider checking into a day room at an airport hotel like the **Crowne Plaza** or back at the **Tamarind Tree Hotel** to rest and repack.
-*   **2:00 PM - 5:00 PM (3 hours):** Do some last-minute, high-quality souvenir shopping at the **Utamaduni Craft Centre**, which has a vast collection of crafts from all over Kenya in a relaxed setting.
-*   **7:00 PM:** Enjoy a wonderful **farewell dinner**.
-*   **11:00 PM:** Transfer to Jomo Kenyatta International Airport (NBO).
-*   **Meal Recommendations:**
-    *   **Breakfast:** Lake Naivasha Sopa Resort
-    *   **Lunch:** **Java House** at a convenient location for a quality, quick meal.
-    *   **Dinner:** **Fogo Gaucho** for a fantastic Brazilian steakhouse experience, or back to **The Carnivore** if you loved it the first time.
+### **Day 8: Saturday, October 25, 2025 - Active Adventure in Naivasha**
+
+*   **Location:** Lake Naivasha Area
+*   **Focus:** Unique walking and cycling safaris.
+
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| **8:00 AM - 12:30 PM** | **Cycling Safari in Hell's Gate National Park** | Explore the dramatic landscapes of Hell's Gate, one of the only parks in Kenya where you can cycle or hike. Ride alongside herds of zebra, buffalo, and gazelles against a backdrop of towering cliffs and geothermal steam vents. |
+| **1:00 PM - 2:30 PM** | **Lunch at a Lakeside Restaurant** | Enjoy lunch at a spot like **Camp Carnelley's** or **Matteo's Italian Restaurant** for a casual, fun atmosphere by the lake. |
+| **3:00 PM - 5:00 PM** | **Walking Safari on Crescent Island** | Take a short boat ride to **Crescent Island Game Sanctuary**. Here, you will walk freely among non-predatory animals like giraffes, wildebeest, and zebras. It’s a surreal and peaceful wildlife experience. |
+| **7:00 PM** | **Dinner** | Return to your accommodation for a final relaxing dinner in Naivasha. |
 
 ---
 
-**Day 11: Wednesday, October 29, 2025 - Departure**
-*   **12:00 AM:** Check in for your international flight.
-*   **2:30 AM:** Your Turkish Airlines flight TK 608 departs from Nairobi, filled with incredible memories of your Kenyan adventure.
+### **Day 9: Sunday, October 26, 2025 - Journey to Amboseli**
+
+*   **Location:** Lake Naivasha to Amboseli National Park
+*   **Focus:** The quintessential view of elephants against Mount Kilimanjaro.
+
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| **7:30 AM - 1:30 PM** | **Drive to Amboseli National Park** | After an early breakfast, begin the 5-6 hour journey to Amboseli. The drive takes you past Nairobi and southeast towards the Tanzanian border. |
+| **1:30 PM - 3:30 PM** | **Check-in & Lunch at Ol Tukai Lodge** | Check into **Ol Tukai Lodge**, famous for its unbeatable, direct views of Mount Kilimanjaro and the surrounding wetlands. Have lunch while soaking in the epic scenery. |
+| **3:30 PM - 6:30 PM** | **Afternoon Game Drive in Amboseli** | Head out into the park, renowned for its massive herds of free-ranging elephants. Your goal is the iconic photograph: elephants with the snow-capped peak of Kilimanjaro as a backdrop. |
+| **7:30 PM** | **Dinner at the Lodge** | Enjoy dinner at the lodge, which often features outdoor dining with views of the floodlit waterhole. |
+
+---
+
+### **Day 10: Monday, October 27, 2025 - Full Day in Amboseli**
+
+*   **Location:** Amboseli National Park
+*   **Focus:** Maximizing wildlife sightings and Kilimanjaro views.
+
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| **6:30 AM - 11:30 AM** | **Morning Game Drive** | The early morning offers the highest probability of a cloud-free view of Kilimanjaro. Explore the park's diverse habitats, from swamps and wetlands to the dry lakebed. |
+| **12:00 PM - 3:00 PM** | **Lunch & Lodge Relaxation** | Return for lunch and spend the early afternoon relaxing by the pool or on your veranda, watching wildlife wander by. |
+| **3:00 PM - 6:00 PM** | **Observation Hill & Evening Game Drive** | Drive to **Observation Hill**, a volcanic cone that you can climb for stunning 360-degree views of the entire park. Follow this with a final evening game drive. |
+| **7:30 PM** | **Dinner** | Enjoy your last safari dinner of the trip. |
+
+---
+
+### **Day 11: Tuesday, October 28, 2025 - Return to Nairobi**
+
+*   **Location:** Amboseli to Nairobi
+*   **Focus:** Final game drive and Kenyan cultural performances.
+
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| **7:00 AM - 9:00 AM** | **Final Game Drive & Departure** | Enjoy a short game drive as you make your way out of Amboseli National Park. |
+| **9:00 AM - 1:00 PM** | **Drive Back to Nairobi** | The 4-5 hour drive will bring you back to the capital city. |
+| **1:00 PM - 2:30 PM** | **Lunch & Check-in** | Have lunch at a casual spot like **Java House**. Check into your final accommodation, perhaps the **Wildebeest Eco Camp** for a unique city-camp experience. |
+| **3:00 PM - 5:00 PM** | **Bomas of Kenya** | Experience Kenya's rich cultural diversity at **Bomas of Kenya**. Witness energetic traditional music and dance performances from various ethnic groups and tour recreated traditional homesteads. |
+| **7:00 PM** | **Dinner Recommendation: About Thyme** | Enjoy dinner at **About Thyme**, a restaurant beloved for its eclectic menu and enchanting garden setting. |
+
+---
+
+### **Day 12: Wednesday, October 29, 2025 - Final Exploration & Departure**
+
+*   **Location:** Nairobi
+*   **Focus:** History, souvenir shopping, and departure.
+
+| Time | Activity | Description |
+| :--- | :--- | :--- |
+| **9:00 AM - 12:00 PM** | **National Museum of Kenya** | Delve into Kenya's fascinating history, culture, and natural heritage. The museum houses significant paleoanthropological finds, including early human fossils. |
+| **12:30 PM - 2:00 PM** | **Lunch** | Have a final Kenyan lunch. **Wasp & Sprout** is a great café option known for its wholesome food and support of local artisans. |
+| **2:00 PM - 5:00 PM** | **Maasai Market Souvenir Shopping** | Visit one of the city's vibrant **Maasai Markets** (the location changes daily) for last-minute souvenir shopping. Bargain for colorful fabrics, intricate beadwork, wood carvings, and more. |
+| **5:00 PM - 7:30 PM** | **Relax and Pack** | Return to your hotel to relax, freshen up, and pack your bags. Many hotels offer day-room rates for guests with late flights. |
+| **7:30 PM - 9:00 PM** | **Farewell Dinner** | Enjoy a farewell dinner at a restaurant of your choice. |
+| **9:00 PM** | **Transfer to NBO Airport** | Your driver will transfer you to Jomo Kenyatta International Airport. |
+| **11:59 PM** | **Depart from Nairobi** | Your flight home departs, filled with incredible memories of your Kenyan adventure. |

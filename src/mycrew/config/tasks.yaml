@@ -11,6 +11,7 @@ flight_task:
   expected_output: >
     "In markdown format:A detailed markdown report a list of flight options with details like airline name, flight number, departure/arrival times, duration, and price."
   agent: flight_Agent
+#  tools: [google_flights_tool]
 
 accommodation_task:
   description: >
@@ -19,6 +20,7 @@ accommodation_task:
   expected_output: >
     "A curated markdown report of accommodation options with name, type, location, price range, and guest ratings."
   agent: accommodation_Agent
+#  tools: [airbnb_search_tool,       hotels_com_get_regions]
 
 itinerary_task:
   description: >
@@ -27,6 +29,7 @@ itinerary_task:
   expected_output: >
     "A day-by-day markdown report of itinerary with timings, places to visit, activity descriptions, and dining options."
   agent: itinerary_Agent
+#  tools: [generate_daily_itinerary_schedule]
 
 local_info_task:
   description: >
@@ -36,6 +39,7 @@ local_info_task:
     "A markdown report for a  comprehensive local travel guide containing currency details, weather summary for the trip dates, "
         "safety notices, and important cultural etiquette to familiarize the user to the local inhabitance and destinations."
   agent: local_info_Agent
+#  tools : [get_weather_forecast,get_currency_exchange,get_local_events,get_cultural_tips]
 
 budget_task:
   description: >
@@ -51,6 +55,7 @@ budget_task:
   expected_output: >
     "A detailed budget estimation markdown report including cost breakdown and a tracking sheet for actual expenses."
   agent: budget_Agent
+#  tools : [convert_currency,get_currency_exchange]
 
 planner_task:
   description: >
@@ -69,3 +74,4 @@ planner_task:
     The suggested places based on their {interests}, estimated costs based on the itinerary that can fit their budget.
     """,
   agent: planner_Agent
+#  tools : [google_flights_tool,airbnb_search_tool,hotels_com_get_regions,generate_daily_itinerary_schedule,get_weather_forecast,get_currency_exchange,get_local_events,get_cultural_tips]
