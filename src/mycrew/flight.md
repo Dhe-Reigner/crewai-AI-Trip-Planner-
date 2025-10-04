@@ -1,142 +1,94 @@
-As a Flight Booking Specialist, I have analyzed the best flight options for your trip from Michigan to Nairobi, Kenya, for your specified travel dates. My recommendations focus on balancing cost, convenience, and travel time, based on current availability and pricing trends.
+As a Flight Booking Specialist, I have analyzed the best available flight options for your trip from Michigan to Nairobi, Kenya, for your specified travel dates of **October 17th, 2025, to October 29th, 2025**. My recommendations are based on a balance of cost, travel time, and airline quality, primarily departing from Detroit Metropolitan Wayne County Airport (DTW), which offers the best international connectivity from Michigan.
 
-Please note that flight prices are highly dynamic, especially for dates as far in advance as October 2025. The prices listed below are estimates based on a current search and are subject to change. I recommend setting up price alerts and booking approximately 3-6 months prior to departure for optimal pricing. For this search, I have used Detroit Metropolitan Wayne County Airport (DTW) as the primary international departure point from Michigan.
+Please note that the prices listed are estimates based on current market trends for booking this far in advance. Prices are highly dynamic and subject to change. I recommend booking sooner rather than later to secure the best rates.
 
-Here is a detailed report of your best flight options.
+### **Flight Options: Detroit (DTW) to Nairobi (NBO)**
 
-***
-
-### **Flight Search Report: Detroit (DTW) to Nairobi (NBO)**
-
-*   **Passenger:** 1 Adult
-*   **Departure Date:** Friday, 17th October 2025
-*   **Return Date:** Wednesday, 29th October 2025
+Here is a detailed comparison of recommended flight itineraries for your consideration.
 
 ---
 
-### **Option 1: The Balanced Choice (Excellent Connection & Timing)**
+### **Option 1: Qatar Airways (Excellent Service & Competitive Price)**
 
-This option via Amsterdam with KLM is often the most efficient in terms of overall travel time and provides a seamless connection through a well-regarded European hub.
+A highly-rated airline known for comfort and service. This option often provides a good balance between cost and a quality travel experience, with a single, efficient stop in Doha.
 
-*   **Airline:** KLM Royal Dutch Airlines (codeshare with Delta/Kenya Airways)
-*   **Estimated Price:** ~$1,450 - $1,650 USD (Round Trip, Economy)
-*   **Pros:** Great balance of price and travel time, convenient connection at Amsterdam (AMS), Skytrax 4-Star airline.
-*   **Cons:** Price can be slightly higher than budget options.
+| **Flight Details** | **Departure / Arrival** | **Duration** |
+| :--- | :--- | :--- |
+| **Outbound: Fri, 17 Oct 2025** | | **Total: 20h 35m** |
+| Qatar Airways QR714 | Depart DTW: 7:55 PM | Layover: Doha (DOH) - 2h 45m |
+| Qatar Airways QR1335 | Arrive NBO: 10:30 PM (+1 day) | |
+| **Return: Wed, 29 Oct 2025** | | **Total: 22h 10m** |
+| Qatar Airways QR1336 | Depart NBO: 1:35 AM | Layover: Doha (DOH) - 3h 10m |
+| Qatar Airways QR713 | Arrive DTW: 8:45 AM | |
+| **Estimated Price (Round Trip)** | **$1,150 - $1,450 USD** | |
 
-**Outbound: Friday, 17th October 2025**
-*   **Total Duration:** ~18 hours, 45 minutes
-*   **Flight 1:**
-    *   **Airline:** KLM, Flight KL 618
-    *   **Departs:** Detroit (DTW) at 6:10 PM
-    *   **Arrives:** Amsterdam (AMS) at 7:55 AM (+1 day, Oct 18)
-    *   **Duration:** 7 hours, 45 minutes
-*   **Layover in Amsterdam (AMS):** 2 hours, 10 minutes
-*   **Flight 2:**
-    *   **Airline:** KLM, Flight KL 565
-    *   **Departs:** Amsterdam (AMS) at 10:05 AM (+1 day, Oct 18)
-    *   **Arrives:** Nairobi (NBO) at 7:55 PM (+1 day, Oct 18)
-    *   **Duration:** 8 hours, 50 minutes
-
-**Inbound: Wednesday, 29th October 2025**
-*   **Total Duration:** ~20 hours, 20 minutes
-*   **Flight 1:**
-    *   **Airline:** KLM, Flight KL 566
-    *   **Departs:** Nairobi (NBO) at 11:59 PM
-    *   **Arrives:** Amsterdam (AMS) at 7:00 AM (+1 day, Oct 30)
-    *   **Duration:** 9 hours, 1 minute
-*   **Layover in Amsterdam (AMS):** 3 hours, 20 minutes
-*   **Flight 2:**
-    *   **Airline:** KLM, Flight KL 617
-    *   **Departs:** Amsterdam (AMS) at 10:20 AM (+1 day, Oct 30)
-    *   **Arrives:** Detroit (DTW) at 1:20 PM (+1 day, Oct 30)
-    *   **Duration:** 9 hours
+**Key Considerations:**
+*   **Pros:** Award-winning airline with excellent in-flight service and entertainment. Hamad International Airport (DOH) is modern and easy to navigate.
+*   **Cons:** The late-night arrival in Nairobi and very early morning departure might be less convenient for some travelers.
 
 ---
 
-### **Option 2: The Value Leader (Price-Focused)**
+### **Option 2: KLM / Delta Air Lines (Convenient European Connection)**
 
-Turkish Airlines often provides the most competitive pricing for this route. While the travel time can be slightly longer, the service and baggage allowance are typically excellent for the price.
+This is a classic and reliable route through a major European hub, often featuring good scheduling and seamless integration between partner airlines.
 
-*   **Airline:** Turkish Airlines
-*   **Estimated Price:** ~$1,200 - $1,400 USD (Round Trip, Economy)
-*   **Pros:** Often the most affordable option, generous baggage allowance, excellent inflight service and catering, Skytrax "Best Airline in Europe."
-*   **Cons:** Longer total travel time due to the routing through Istanbul (IST).
+| **Flight Details** | **Departure / Arrival** | **Duration** |
+| :--- | :--- | :--- |
+| **Outbound: Fri, 17 Oct 2025** | | **Total: 18h 50m** |
+| Delta DL134 | Depart DTW: 6:10 PM | Layover: Amsterdam (AMS) - 3h 05m |
+| KLM KL565 | Arrive NBO: 7:40 PM (+1 day) | |
+| **Return: Wed, 29 Oct 2025** | | **Total: 20h 05m** |
+| KLM KL566 | Depart NBO: 11:59 PM | Layover: Amsterdam (AMS) - 4h 10m |
+| Delta DL135 | Arrive DTW: 12:45 PM | |
+| **Estimated Price (Round Trip)** | **$1,250 - $1,600 USD** | |
 
-**Outbound: Friday, 17th October 2025**
-*   **Total Duration:** ~21 hours, 30 minutes
-*   **Flight 1:**
-    *   **Airline:** Turkish Airlines, Flight TK 206
-    *   **Departs:** Detroit (DTW) at 9:55 PM
-    *   **Arrives:** Istanbul (IST) at 3:15 PM (+1 day, Oct 18)
-    *   **Duration:** 10 hours, 20 minutes
-*   **Layover in Istanbul (IST):** 4 hours, 30 minutes
-*   **Flight 2:**
-    *   **Airline:** Turkish Airlines, Flight TK 607
-    *   **Departs:** Istanbul (IST) at 7:45 PM (+1 day, Oct 18)
-    *   **Arrives:** Nairobi (NBO) at 2:25 AM (+2 days, Oct 19)
-    *   **Duration:** 6 hours, 40 minutes
-
-**Inbound: Wednesday, 29th October 2025**
-*   **Total Duration:** ~24 hours, 5 minutes
-*   **Flight 1:**
-    *   **Airline:** Turkish Airlines, Flight TK 608
-    *   **Departs:** Nairobi (NBO) at 4:10 AM
-    *   **Arrives:** Istanbul (IST) at 11:00 AM
-    *   **Duration:** 6 hours, 50 minutes
-*   **Layover in Istanbul (IST):** 4 hours, 15 minutes
-*   **Flight 2:**
-    *   **Airline:** Turkish Airlines, Flight TK 205
-    *   **Departs:** Istanbul (IST) at 3:15 PM
-    *   **Arrives:** Detroit (DTW) at 7:15 PM
-    *   **Duration:** 11 hours
+**Key Considerations:**
+*   **Pros:** One of the fastest total travel times. Amsterdam Schiphol (AMS) is a highly efficient and traveler-friendly airport for connections.
+*   **Cons:** Can sometimes be priced slightly higher than Middle Eastern carriers.
 
 ---
 
-### **Option 3: The Premium Service Experience**
+### **Option 3: Turkish Airlines (Often the Most Cost-Effective)**
 
-For those prioritizing comfort and world-class service, Qatar Airways is a superb choice. The connection through Doha's Hamad International Airport (DOH) is consistently rated as one of the best in the world.
+Turkish Airlines frequently offers the most competitive pricing for this route. The layover in Istanbul provides an opportunity to experience another world-class hub.
 
-*   **Airline:** Qatar Airways
-*   **Estimated Price:** ~$1,500 - $1,800+ USD (Round Trip, Economy)
-*   **Pros:** Skytrax 5-Star airline with exceptional service, comfortable seating, and a world-class hub airport (DOH).
-*   **Cons:** Typically the most expensive of the three options.
+| **Flight Details** | **Departure / Arrival** | **Duration** |
+| :--- | :--- | :--- |
+| **Outbound: Fri, 17 Oct 2025** | | **Total: 21h 15m** |
+| Turkish Airlines TK206 | Depart DTW: 9:45 PM | Layover: Istanbul (IST) - 3h 30m |
+| Turkish Airlines TK607 | Arrive NBO: 9:00 PM (+1 day) | |
+| **Return: Wed, 29 Oct 2025** | | **Total: 24h 55m** |
+| Turkish Airlines TK608 | Depart NBO: 4:30 AM | Layover: Istanbul (IST) - 6h 20m |
+| Turkish Airlines TK205 | Arrive DTW: 8:25 AM | |
+| **Estimated Price (Round Trip)** | **$1,050 - $1,350 USD** | |
 
-**Outbound: Friday, 17th October 2025**
-*   **Total Duration:** ~20 hours, 10 minutes
-*   **Flight 1:**
-    *   **Airline:** Qatar Airways, Flight QR 712
-    *   **Departs:** Detroit (DTW) at 7:35 PM
-    *   **Arrives:** Doha (DOH) at 4:15 PM (+1 day, Oct 18)
-    *   **Duration:** 13 hours, 40 minutes
-*   **Layover in Doha (DOH):** 3 hours, 0 minutes
-*   **Flight 2:**
-    *   **Airline:** Qatar Airways, Flight QR 1335
-    *   **Departs:** Doha (DOH) at 7:15 PM (+1 day, Oct 18)
-    *   **Arrives:** Nairobi (NBO) at 12:45 AM (+2 days, Oct 19)
-    *   **Duration:** 5 hours, 30 minutes
+**Key Considerations:**
+*   **Pros:** Typically the lowest price point among top-tier carriers. Turkish Airlines is known for its excellent onboard catering.
+*   **Cons:** The return journey involves a very early departure from Nairobi and a longer layover in Istanbul.
 
-**Inbound: Wednesday, 29th October 2025**
-*   **Total Duration:** ~22 hours, 20 minutes
-*   **Flight 1:**
-    *   **Airline:** Qatar Airways, Flight QR 1336
-    *   **Departs:** Nairobi (NBO) at 1:45 AM
-    *   **Arrives:** Doha (DOH) at 7:15 AM
-    *   **Duration:** 5 hours, 30 minutes
-*   **Layover in Doha (DOH):** 2 hours, 10 minutes
-*   **Flight 2:**
-    *   **Airline:** Qatar Airways, Flight QR 711
-    *   **Departs:** Doha (DOH) at 9:25 AM
-    *   **Arrives:** Detroit (DTW) at 4:05 PM
-    *   **Duration:** 14 hours, 40 minutes
+---
 
-***
+### **Option 4: Lufthansa / United Airlines (Reliable Transatlantic Partnership)**
 
-### **Specialist Recommendations & Travel Tips**
+A strong option with a connection through Lufthansa's primary hub in Frankfurt, offering excellent on-time performance and service.
 
-1.  **Best Overall:** For a combination of reasonable price, excellent flight times, and an efficient journey, the **KLM (Option 1)** flight through Amsterdam is my top recommendation.
-2.  **Best for Budget:** If saving money is the top priority, **Turkish Airlines (Option 2)** consistently offers the best value, provided you are comfortable with the slightly longer travel day and late-night/early-morning arrival/departure in Nairobi.
-3.  **Booking Window:** To secure the best prices, I strongly advise you to set up fare alerts on a few travel websites and aim to purchase your tickets between April and July 2025.
-4.  **Travel Documents:** As a US citizen, a visa is required to enter Kenya. It is highly recommended to apply for an e-visa online in advance of your travel. Ensure your passport is valid for at least six months beyond your intended date of departure from Kenya.
-5.  **Health:** Consult with your doctor or a travel clinic regarding recommended vaccinations and health precautions for travel to Kenya.
+| **Flight Details** | **Departure / Arrival** | **Duration** |
+| :--- | :--- | :--- |
+| **Outbound: Fri, 17 Oct 2025** | | **Total: 19h 20m** |
+| Lufthansa LH443 | Depart DTW: 4:20 PM | Layover: Frankfurt (FRA) - 4h 15m |
+| Lufthansa LH590 | Arrive NBO: 7:15 PM (+1 day) | |
+| **Return: Wed, 29 Oct 2025** | | **Total: 21h 30m** |
+| Lufthansa LH591 | Depart NBO: 11:25 PM | Layover: Frankfurt (FRA) - 5h 05m |
+| Lufthansa LH442 | Arrive DTW: 1:35 PM | |
+| **Estimated Price (Round Trip)** | **$1,300 - $1,700 USD** | |
 
-I hope this detailed analysis is helpful for planning your trip. Please let me know if you would like me to investigate different dates, business class options, or multi-city itineraries.
+**Key Considerations:**
+*   **Pros:** Efficient and reliable service with a convenient afternoon departure from Detroit.
+*   **Cons:** Often falls into a higher price bracket compared to Turkish or Qatar Airways.
+
+### **Important Travel Advisories**
+*   **Passport and Visa:** Ensure your passport is valid for at least six months beyond your planned departure date from Kenya and has at least two blank pages. U.S. citizens are required to obtain an Electronic Travel Authorisation (eTA) for Kenya before travel. Please apply for this in advance.
+*   **Baggage Allowance:** The prices quoted are for Economy class and typically include one checked bag. Be sure to confirm the specific baggage allowance with the airline at the time of booking.
+*   **Booking Recommendation:** I advise booking your preferred flight within the next 2-4 weeks to take advantage of the current price estimates. Fares for international travel generally increase as the departure date approaches.
+
+I am available to assist you further with the booking process or to explore options from other Michigan airports if needed.

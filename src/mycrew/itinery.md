@@ -1,143 +1,172 @@
-Jambo! Welcome to Nairobi. As your Daily Itinerary Planner, I have designed a comprehensive and balanced 12-day itinerary focused on your interest in 🌿 **Nature & Wildlife**. This plan is tailored to your travel dates (October 18th - 29th, 2025), assuming the recommended KLM flight arriving on the evening of the 18th.
+Hello! As your Daily Itinerary Planner, I've crafted a comprehensive 12-day itinerary for your trip to Nairobi, focusing on your passion for **🌿 Nature & Wildlife**. This plan is designed to be immersive and well-paced, leveraging the convenience of your potential accommodation in the Karen/Lang'ata area. It considers your arrival late on October 18th and your departure in the early hours of October 29th, 2025.
 
-This itinerary blends iconic wildlife encounters with hidden natural gems, cultural experiences, and exquisite dining, all while allowing for moments of relaxation. Nairobi traffic can be unpredictable, so the timings are estimates designed to be flexible. For maximum comfort and efficiency, I highly recommend hiring a dedicated car with a knowledgeable local driver-guide for the duration of your stay.
+Here is your personalized daily plan:
 
-### **Pre-Travel Booking & Essential Information**
-
-To ensure a seamless experience, several attractions and activities require advance booking. Please find the details below.
-
-| **Activity/Service** | **Booking Information** | **Recommendation** |
-| :--- | :--- | :--- |
-| **Sheldrick Wildlife Trust** | Booking is **mandatory** and must be done online via their official website. Slots for the 11 AM public viewing fill up weeks, sometimes months, in advance. | Book this **at least 2-3 months prior** to your trip. You can also "adopt" an elephant for a donation, which may grant access to the 5 PM private viewing (check their website for current policies). |
-| **Giraffe Centre** | While walk-ins are possible, it can get very crowded. Pre-booking your ticket online via their official website is highly recommended to save time. | Book online a week or two before your visit. |
-| **Nairobi National Park** | Park fees must be paid digitally. It's easiest to use the KWS eCitizen portal. Your guide can assist, but having an account set up can be helpful. | Your tour operator/guide will likely handle this, but confirm with them beforehand. |
-| **Day Trips (Lake Naivasha, Ol Pejeta)** | These are best arranged through a reputable local tour operator who can provide a safe vehicle, experienced guide, and handle all logistics. | Book with a provider like **Pollman's Tours & Safaris** or **Cheetah Safaris** at least a month in advance. |
-| **Popular Restaurants** | For renowned restaurants like The Talisman, Carnivore, or 45 Degrees Kitchen, reservations are essential, especially for dinner. | Book 1-2 weeks in advance, particularly for weekend dining. Your hotel concierge can easily assist with this. |
-| **Driver/Guide** | A private vehicle with a guide is the safest and most efficient way to navigate Nairobi. | Book this service when you book your accommodation. Your hotel can often recommend a trusted service. |
-| **Kenya e-Visa** | As a US citizen, you must apply for an e-visa online through the official Government of Kenya portal before you travel. | Apply for your e-visa **at least 2 weeks before** your departure date. |
+### **Your Nairobi Nature & Wildlife Adventure: October 18 - 29, 2025**
 
 ---
 
-### **Your Detailed Daily Itinerary**
+### **Day 1: Saturday, 18th October 2025 - Arrival in Nairobi**
 
-#### **Day 1: Saturday, 18th October 2025 - Arrival & Acclimatization**
+*   **Evening (7:30 PM - 10:30 PM): Arrival & Transfer**
+    *   **Activity:** Arrive at Jomo Kenyatta International Airport (NBO). After clearing immigration and collecting your luggage, you will be met by your pre-booked driver or hotel transfer.
+    *   **Description:** The journey to your hotel in the Karen/Lang'ata area will take approximately 45-60 minutes, depending on traffic. This is a great time to get a first glimpse of the city at night.
+    *   **Dinner:** A light dinner or room service at your hotel. Settle in and rest after your long journey.
 
-*   **7:55 PM:** Arrive at Jomo Kenyatta International Airport (NBO).
-*   **8:00 PM - 9:00 PM (Est. 1 hour):** Clear immigration, collect your luggage, and meet your pre-arranged driver in the arrivals hall.
-*   **9:00 PM - 10:00 PM (Est. 1 hour):** Transfer to your hotel in the serene Karen suburb. The city lights will give you a first glimpse of Nairobi.
-*   **10:00 PM onwards:** Check into your hotel (e.g., Hemingways Nairobi or House of Waine).
-    *   **Dinner:** Enjoy a light, late dinner and a welcome drink at your hotel's restaurant. The goal is to relax and settle in after your long journey.
+---
 
-#### **Day 2: Sunday, 19th October 2025 - Gentle Giants & Local Crafts**
+### **Day 2: Sunday, 19th October 2025 - The Karen "Big Three"**
 
-*   **9:00 AM - 12:00 PM (Est. 3 hours):**
-    *   **Activity:** Visit the **Giraffe Centre**. Get up close and personal with the endangered Rothschild's giraffes. You'll have the unforgettable opportunity to feed them from a raised platform. Learn about their conservation at the on-site education center.
-*   **12:30 PM - 2:00 PM (Est. 1.5 hours):**
-    *   **Lunch:** Dine at **The Talisman Restaurant**. A legendary Nairobi establishment located nearby in Karen, known for its beautiful garden setting and exquisite pan-Asian and European fusion cuisine. *Booking is essential.*
-*   **2:30 PM - 4:00 PM (Est. 1.5 hours):**
-    *   **Activity:** Visit the **Kazuri Beads Factory**. This social enterprise employs disadvantaged local women to create beautiful, handmade ceramic beads and pottery. Take a free tour of the factory to see the process from start to finish and purchase unique souvenirs.
-*   **7:00 PM onwards:**
-    *   **Dinner:** Enjoy a sophisticated dinner at **The Brasserie at Hemingways**, known for its European-inspired menu and elegant ambiance.
+This day is dedicated to the iconic wildlife conservation centers in the Karen suburb.
 
-#### **Day 3: Monday, 20th October 2025 - Elephant Conservation & Culture**
+*   **9:00 AM - 10:30 AM: Karen Blixen Museum**
+    *   **Activity:** Explore the former home of the Danish author Karen Blixen, famous for her book "Out of Africa."
+    *   **Description:** The beautifully preserved colonial farmhouse and gardens offer a tranquil glimpse into Kenya's past. The green, serene environment is a perfect, gentle start to your trip.
+    *   **Time:** 1.5 hours.
 
-*   **10:30 AM - 12:00 PM (Est. 1.5 hours):**
-    *   **Activity:** A heartwarming visit to the **Sheldrick Wildlife Trust**. Watch the orphaned baby elephants enjoy their morning milk feeding and a playful mud bath. Listen to the keepers share the personal stories of each orphan. ***Booking online well in advance is mandatory.***
-*   **12:30 PM - 2:00 PM (Est. 1.5 hours):**
-    *   **Lunch:** A relaxed meal at **Matbronze Café**, a lovely spot surrounded by stunning wildlife art and bronze sculptures.
-*   **2:30 PM - 5:00 PM (Est. 2.5 hours):**
-    *   **Activity:** Immerse yourself in Kenyan culture at the **Bomas of Kenya**. Witness high-energy traditional music and dance performances from various ethnic groups and tour the traditional homesteads (bomas).
-*   **7:30 PM onwards:**
-    *   **Dinner:** Dine at **About Thyme**, a charming and intimate restaurant with a beautiful garden, offering an eclectic and creative menu.
+*   **10:45 AM - 12:15 PM: Sheldrick Wildlife Trust Elephant Orphanage**
+    *   **Activity:** Witness the feeding of orphaned baby elephants.
+    *   **Description:** This is a heartwarming experience where you'll watch the young elephants play, feed, and interact with their keepers. You will learn about their rescue stories and the conservation efforts to reintroduce them to the wild. The public viewing is strictly from 11:00 AM to 12:00 PM.
+    *   **Time:** 1.5 hours (arrive by 10:45 AM).
+    *   **Booking:** **MANDATORY.** See booking section below.
 
-#### **Day 4: Tuesday, 21st October 2025 - Safari in the City**
+*   **12:30 PM - 2:00 PM: Lunch at The Talisman**
+    *   **Dining:** Enjoy lunch at one of Nairobi's most acclaimed restaurants, known for its beautiful garden setting and diverse, Pan-Asian and European fusion menu.
 
-*   **6:00 AM - 12:00 PM (Est. 6 hours):**
-    *   **Activity:** Embark on an early morning game drive in **Nairobi National Park**. This is the only national park in the world bordering a capital city. Search for lions, rhinos, giraffes, zebras, and buffalo against the unique backdrop of the city skyline. The early start maximizes your chances of seeing active predators.
-*   **12:30 PM - 2:00 PM (Est. 1.5 hours):**
-    *   **Lunch:** Enjoy lunch with a view at the **Ranger's Restaurant** located inside the park, or ask your guide to arrange a scenic picnic at one of the designated spots.
-*   **2:30 PM onwards:**
-    *   **Activity:** Return to your hotel for a well-deserved afternoon of relaxation. Enjoy the swimming pool, book a spa treatment, or simply unwind in the peaceful gardens.
-*   **7:00 PM onwards:**
-    *   **Dinner:** Experience the world-famous **Carnivore Restaurant**. This is an all-you-can-eat "beast of a feast" where various meats (including ostrich and crocodile) are roasted on traditional Maasai swords and carved at your table. A fun and unique dining adventure.
+*   **2:15 PM - 4:00 PM: AFEW Giraffe Centre**
+    *   **Activity:** Get up close and personal with the endangered Rothschild's giraffes.
+    *   **Description:** From a raised platform, you can hand-feed the giraffes, get a famous "giraffe kiss," and learn about the conservation of this specific subspecies.
+    *   **Time:** 1.5 - 2 hours.
 
-#### **Day 5: Wednesday, 22nd October 2025 - Karura's Urban Oasis**
+*   **Evening: Dinner at House of Waine**
+    *   **Dining:** Enjoy a quiet, elegant dinner at this boutique hotel, known for its superb service and serene atmosphere.
 
-*   **9:00 AM - 1:00 PM (Est. 4 hours):**
-    *   **Activity:** Explore the lush **Karura Forest**. This urban forest is a haven for nature lovers. You can walk, jog, or rent a bicycle to explore the well-marked trails leading to waterfalls, caves, and serene picnic spots. It's a perfect place for bird-watching.
-*   **1:00 PM - 2:30 PM (Est. 1.5 hours):**
-    *   **Lunch:** Dine at **The River Café**, a beautiful restaurant nestled inside Karura Forest, offering fresh and healthy meals in a tranquil environment overlooking the river.
-*   **3:00 PM - 5:00 PM (Est. 2 hours):**
-    *   **Activity:** Discover Kenya's rich heritage at the **Nairobi National Museum**. The exhibits cover natural history, culture, and national history. The adjacent **Snake Park** is also worth a visit.
-*   **7:00 PM onwards:**
-    *   **Dinner:** Head to the vibrant Westlands neighborhood for dinner at **INCA Nairobi** at The Social House. It offers spectacular city views and a delicious menu of Peruvian-Japanese fusion cuisine.
+---
 
-#### **Day 6: Thursday, 23rd October 2025 - Day Trip to the Great Rift Valley**
+### **Day 3: Monday, 20th October 2025 - The Urban Safari**
 
-*   **7:30 AM - 6:00 PM (Full Day):**
-    *   **Activity:** Take a full-day trip to **Lake Naivasha**.
-    *   **On the way:** Stop at the breathtaking **Great Rift Valley Viewpoint** for photos of the valley floor below.
-    *   **At the Lake:** Enjoy a scenic boat ride on Lake Naivasha, navigating past pods of hippos and spotting a vast array of birdlife, including fish eagles.
-    *   **Crescent Island:** Your boat will drop you at **Crescent Island Game Sanctuary**, where you can take a guided walking safari. Walk freely among non-predatory animals like giraffes, zebras, wildebeest, and gazelles—a truly magical experience.
-*   **Lunch:** Enjoy lunch at a lakeside lodge like **Lake Naivasha Sopa Resort**.
-*   **7:30 PM onwards:**
-    *   **Dinner:** After returning to Nairobi, have a relaxed dinner at your hotel or a nearby local favorite.
+*   **6:00 AM - 11:30 AM: Nairobi National Park Game Drive**
+    *   **Activity:** Embark on an early morning game drive in the world's only national park within a capital city.
+    *   **Description:** The early hours offer the best chance to see predators like lions and leopards, as well as a rich population of black rhinos, giraffes, zebras, and buffalo, all against the unique backdrop of the city skyline.
+    *   **Time:** 4-5 hours.
+    *   **Booking:** A safari vehicle (4x4) with a guide is essential for the best experience.
 
-#### **Day 7: Friday, 24th October 2025 - "Out of Africa" & Coffee Culture**
+*   **12:00 PM - 2:00 PM: Lunch at Carnivore Restaurant**
+    *   **Dining:** A truly iconic Nairobi experience. Famous for its "Beast of a Feast" menu where various types of meat (including ostrich and crocodile) are roasted on traditional Maasai swords and carved at your table. A vegetarian menu is also available.
 
-*   **9:30 AM - 11:30 AM (Est. 2 hours):**
-    *   **Activity:** Step back in time at the **Karen Blixen Museum**, the former home of the Danish author famous for her book "Out of Africa." The beautifully preserved colonial farmhouse and gardens offer a glimpse into Kenya's past.
-*   **12:00 PM - 2:30 PM (Est. 2.5 hours):**
-    *   **Activity & Lunch:** Take a "bean to cup" tour at a local coffee farm like the **Fairview Coffee Estate**. Learn about the entire process of coffee production and finish with a tasting session, followed by lunch at their garden restaurant.
-*   **3:00 PM - 5:00 PM (Est. 2 hours):**
-    *   **Activity:** Visit **Kitengela Hot Glass**. Cross a thrilling suspension bridge to reach this magical studio where artisans transform recycled glass into stunning works of art. Watch the glassblowers in action and browse the unique pieces in the gallery.
-*   **7:00 PM onwards:**
-    *   **Dinner:** Enjoy an authentic and flavourful Ethiopian meal at **Habesha Restaurant**, known for its traditional décor and communal dining platters.
+*   **2:30 PM - 4:30 PM: Nairobi Safari Walk & Animal Orphanage**
+    *   **Activity:** A relaxed walk along raised boardwalks to see animals in habitats mimicking their natural environment.
+    *   **Description:** Located at the entrance of the National Park, this is a great way to see animals you might have missed on the drive up close, including the rare Bongo antelope.
+    *   **Time:** 2 hours.
 
-#### **Day 8: Saturday, 25th October 2025 - Market Treasures & Relaxation**
+*   **Evening: Relaxed Dinner**
+    *   **Dining:** Enjoy a casual dinner at your hotel or explore a local spot like "Artcaffe" in the Karen Hub mall.
 
-*   **9:00 AM - 1:00 PM (Est. 4 hours):**
-    *   **Activity:** Go souvenir hunting at the **Maasai Market**. This vibrant open-air market is a treasure trove of handicrafts, jewelry, fabrics, and artwork. Your guide will take you to the best and safest location for that day. Be prepared to practice your bargaining skills!
-*   **1:30 PM - 3:00 PM (Est. 1.5 hours):**
-    *   **Lunch:** For a truly local experience, have lunch at **K'osewe Ranalo Foods**. It's a bustling city restaurant famous for authentic Kenyan dishes like fresh tilapia from Lake Victoria and ugali.
-*   **3:30 PM onwards:**
-    *   **Activity:** Return to your hotel in Karen for an afternoon of pure relaxation. Read a book by the pool, indulge in a massage, or simply enjoy the tranquil surroundings.
-*   **7:00 PM onwards:**
-    *   **Dinner:** Return to **The Talisman Restaurant**. Its menu is so diverse and the atmosphere so special, it's worth a second visit to try different dishes.
+---
 
-#### **Day 9: Sunday, 26th October 2025 - Educational Encounters**
+### **Day 4: Tuesday, 21st October 2025 - Forest Walks & Local Crafts**
 
-*   **9:00 AM - 12:00 PM (Est. 3 hours):**
-    *   **Activity:** Visit the **Nairobi Safari Walk**. This raised wooden boardwalk offers a fantastic opportunity to see a variety of Kenyan wildlife in well-kept enclosures, representing different ecosystems. It’s an easy and educational walk, perfect for seeing animals you may have missed on your game drive. The adjacent **Animal Orphanage** cares for rescued animals.
-*   **12:30 PM - 2:00 PM (Est. 1.5 hours):**
-    *   **Lunch:** Enjoy the wide variety of options at **The Hub Karen**, a modern shopping mall with an excellent food court and several sit-down restaurants.
-*   **2:30 PM - 4:30 PM (Est. 2 hours):**
-    *   **Activity:** Visit **Mamba Village**, famous for its crocodile farm. Take a guided tour to see these giant reptiles and also see the ostrich breeding program.
-*   **6:30 PM onwards:**
-    *   **Dinner:** Enjoy sundowner cocktails with a panoramic city view from the rooftop bar at **Sankara Nairobi** in Westlands, followed by dinner at their acclaimed steakhouse, Graze.
+*   **9:00 AM - 1:00 PM: Karura Forest Exploration**
+    *   **Activity:** Hiking or biking through a lush urban forest.
+    *   **Description:** Escape into nature with a visit to this protected forest. Follow the trails to see waterfalls, caves, and native trees. You can rent a bike or simply enjoy a long, peaceful walk.
+    *   **Time:** 3-4 hours.
 
-#### **Day 10: Monday, 27th October 2025 - Hiker's High or Rhino Haven (Your Choice)**
+*   **1:00 PM - 2:30 PM: Lunch at The River Cafe**
+    *   **Dining:** Located inside Karura Forest, this cafe offers a beautiful and tranquil setting for a meal amidst the trees.
 
-*   **Option 1 - Active & Scenic (Full Day, 8 AM - 4 PM):**
-    *   **Activity:** Hike the **Ngong Hills**. Famed for the line "I had a farm on the foot of the Ngong Hills," this is a fantastic day for active travelers. A guide is essential for security and navigation. You can hike the full seven peaks, enjoying stunning panoramic views of the Great Rift Valley on one side and Nairobi on the other. A packed lunch is recommended.
-*   **Option 2 - Ultimate Wildlife (Very Long Day, 5 AM - 8 PM):**
-    *   **Activity:** Take a once-in-a-lifetime day trip to **Ol Pejeta Conservancy**. This requires a very early start for the 3-4 hour drive. Ol Pejeta is a pioneering conservation area, home to the world's last two northern white rhinos, a chimpanzee sanctuary, and a high density of other wildlife, including the Big Five. This is a premium experience and will be a long but incredibly rewarding day.
-*   **Evening:**
-    *   **Dinner:** Your dinner will depend on your choice. If you hiked, enjoy a well-earned meal in Karen. If you went to Ol Pejeta, you'll be tired; a quiet dinner at your hotel or room service is the perfect end to an epic day.
+*   **3:00 PM - 4:30 PM: Kazuri Beads Factory**
+    *   **Activity:** Tour the workshop and shop for handmade jewelry.
+    *   **Description:** Kazuri, meaning "small and beautiful" in Swahili, is a social enterprise that employs disadvantaged local women. Watch the artisans create beautiful ceramic beads and pottery, and purchase unique souvenirs that support a great cause.
+    *   **Time:** 1.5 hours.
 
-#### **Day 11: Tuesday, 28th October 2025 - Last Treasures & Farewell Dinner**
+*   **Evening: Dinner at Zen Garden**
+    *   **Dining:** A stunning restaurant in the Spring Valley area with three distinct dining areas set in beautiful Asian-style gardens.
 
-*   **Morning (Flexible):**
-    *   **Activity:** Spend your last full day at your leisure. You could revisit a favorite spot (like the baby elephants!), do some high-quality, fixed-price souvenir shopping at the **Utamaduni Craft Centre**, or arrange for a specialized guided bird-watching walk.
-*   **Afternoon:**
-    *   **Activity:** Return to your hotel for final packing and relaxation before your long journey home.
-*   **7:00 PM onwards:**
-    *   **Farewell Dinner:** Enjoy a memorable farewell dinner at **45 Degrees Kitchen** in Karen. This restaurant is celebrated for its beautiful garden setting, sophisticated ambiance, and a superb menu focusing on fresh, locally-sourced ingredients.
+---
 
-#### **Day 12: Wednesday, 29th October 2025 - Final Moments & Departure**
+### **Day 5: Wednesday, 22nd October 2025 - Day Trip to the Great Rift Valley**
 
-*   **Morning:** Enjoy a final, leisurely Kenyan breakfast at your hotel.
-*   **11:00 AM - 4:00 PM:** Check out from your hotel (they can store your luggage). Use the time for any last-minute souvenir shopping at The Hub Karen or visit a local art gallery like the **Matbronze Gallery**.
-*   **4:30 PM:** Enjoy an early farewell dinner or late lunch at a restaurant of your choice.
-*   **8:00 PM (Est.):** Your driver will pick you up for your transfer to Jomo Kenyatta International Airport (NBO).
-*   **11:59 PM:** Depart from Nairobi, filled with incredible memories of Kenya's nature and wildlife.
+*   **7:00 AM - 6:00 PM: Lake Naivasha & Hell's Gate National Park**
+    *   **Activity:** A full-day excursion to the Great Rift Valley.
+    *   **Description:**
+        *   **Morning (Hell's Gate):** Start by cycling or hiking through the dramatic gorge of Hell's Gate National Park, the inspiration for Disney's "The Lion King."
+        *   **Lunch:** Enjoy lunch at a lakeside lodge like Sopa Resort Naivasha.
+        *   **Afternoon (Lake Naivasha):** Take a boat safari on Lake Naivasha to see hippos and a stunning variety of birdlife. Optionally, visit Crescent Island for a walking safari among giraffes, zebras, and wildebeest.
+    *   **Time:** Full day (approx. 11 hours).
+    *   **Booking:** **Highly Recommended.** Book a full-day tour with a reputable operator.
+
+---
+
+### **Day 6: Thursday, 23rd October 2025 - Rest, Relax & Retail**
+
+*   **Morning: At Leisure**
+    *   **Activity:** After a long day trip, take this morning to relax. Enjoy the amenities of your hotel, such as the pool or spa, or simply relax with a book in the garden.
+
+*   **12:30 PM - 2:00 PM: Lunch at Boho Eatery**
+    *   **Dining:** A charming, eco-friendly restaurant in Karen with a focus on healthy, organic food served in a beautiful garden setting.
+
+*   **2:30 PM - 5:00 PM: Utamaduni Craft Centre**
+    *   **Activity:** Relaxed souvenir shopping.
+    *   **Description:** Housed in a converted house, Utamaduni offers a vast collection of crafts from around Kenya in different rooms. It's a hassle-free, fixed-price alternative to the bustling markets.
+    *   **Time:** 2-2.5 hours.
+
+*   **Evening: Fine Dining at Hemingways Nairobi**
+    *   **Dining:** Indulge in an exquisite fine dining experience at The Brasserie in Hemingways Hotel, known for its European-inspired cuisine and elegant ambiance.
+
+---
+
+### **Days 7-10: Deeper Dives & Flexible Exploration (Fri 24th - Mon 27th)**
+
+This period allows for deeper exploration and flexibility. You can choose from the following or revisit a favorite spot.
+
+*   **Option 1 (Full Day): Kiambethu Tea Farm (Booking Essential)**
+    *   A delightful trip to Limuru to learn about tea processing, enjoy a walk in an indigenous forest, and have a fantastic 3-course lunch on the lawn of a colonial-era farmhouse. A truly unique Kenyan experience.
+
+*   **Option 2 (Half Day): Bomas of Kenya**
+    *   Experience Kenya's rich cultural diversity through traditional music, dance performances, and architectural displays of various tribal homesteads. Performances are typically in the afternoon.
+
+*   **Option 3 (Half Day): Maasai Market**
+    *   Dive into the vibrant, colorful chaos of a local Maasai Market to bargain for crafts, jewelry, and textiles. The market moves to different locations daily; check the schedule for the day you plan to go.
+
+*   **Option 4 (Half Day): Oloolua Nature Trail**
+    *   A hidden gem in Karen, this trail offers a peaceful walk through an indigenous forest, complete with a waterfall and caves. It's less crowded than Karura and perfect for a quiet morning.
+
+---
+
+### **Day 11: Tuesday, 28th October 2025 - Last Impressions & Farewell Dinner**
+
+*   **Morning: Your Choice**
+    *   **Activity:** Revisit a favorite spot (perhaps one last visit to the giraffes?) or do some last-minute shopping at Marula Studios for unique gifts made from recycled materials.
+
+*   **Afternoon: Pack & Relax**
+    *   **Activity:** Enjoy a final afternoon relaxing at your hotel. Consider requesting a late check-out to accommodate your late-night flight.
+
+*   **6:30 PM - 8:30 PM: Farewell Dinner**
+    *   **Dining:** Enjoy a memorable farewell dinner. **Tamarind Nairobi** is an excellent choice, known for its seafood and stunning location in a villa in Karen.
+
+*   **9:00 PM onwards: Transfer to Airport**
+    *   **Activity:** Your pre-booked driver will pick you up from the restaurant or hotel for your transfer to NBO. Plan to arrive at the airport at least 3 hours before your flight.
+
+---
+
+### **Day 12: Wednesday, 29th October 2025 - Departure**
+
+*   **Early Morning (1:35 AM - 4:30 AM):** Depart from NBO, filled with incredible memories of your Kenyan wildlife adventure.
+
+---
+
+### **⭐ Essential Prior Booking Information**
+
+To ensure a smooth and enjoyable trip, booking the following in advance is crucial:
+
+| Activity / Service | Booking Details | Recommended Lead Time |
+| :--- | :--- | :--- |
+| **Sheldrick Wildlife Trust** | Book your public visit ticket online via their official website. Tickets sell out weeks, sometimes months, in advance. | 2-3 months prior |
+| **Nairobi National Park Vehicle** | Arrange a 4x4 safari vehicle with a pop-up roof and a knowledgeable guide through a local tour operator or your hotel. | At least 2 weeks prior |
+| **Day Trip (Lake Naivasha)** | Book a full-day package with a reputable tour company (e.g., Viator, GetYourGuide, or a local operator like Perfect Wilderness Tours). | 2-4 weeks prior |
+| **Kiambethu Tea Farm** | Reservations are mandatory. Book directly through their website or by phone. Their tours are very popular and have limited spots. | 1-2 months prior |
+| **Key Restaurant Reservations** | For popular restaurants like **The Talisman**, **Carnivore**, and **Tamarind**, it is highly advisable to book a table a few days in advance, especially for dinner. | 1-2 weeks prior |
+| **Airport Transfers & Driver** | Pre-book your airport transfers and consider hiring a car and driver for your full stay for maximum convenience and safety. | 2-4 weeks prior |
+| **eTA for Kenya** | As a U.S. citizen, you must apply for an Electronic Travel Authorisation (eTA) online before you travel. Do not leave this to the last minute. | At least 1 month prior |
+
+I hope this detailed itinerary helps you envision your incredible journey. Enjoy the magic of Nairobi

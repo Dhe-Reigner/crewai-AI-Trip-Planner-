@@ -7,7 +7,16 @@ import os
 import litellm
 
 load_dotenv()
-litellm.api_key = os.getenv("GEMINI_API_KEY")
+
+
+keys  =[
+    os.getenv("GEMINI_API_KEY_POJECT_MARTOZ"),
+    os.getenv("GEMINI_API_KEY_PROJECT_LANGCHAIN101"),
+    os.getenv("GEMINI_API_KEY_PROJECT_MARTO"),
+    os.getenv("GEMINI_API_KEY_PROJECT_KAGEMA")
+]
+api_key_to_use = keys[0]
+litellm.api_key = api_key_to_use
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-pro",temperature=0.7,google_api_key=litellm.api_key)
 
 def main():
@@ -107,6 +116,14 @@ def main():
                     st.warning(f"Could not find {file}.")
                 except Exception as e:
                     st.error(f"An error occurred while reading {file}: {e}")
+
+            st.download_button(
+                     label="Download CSV",
+                     data=files,
+                     file_name="data.csv",
+                     mime="text/plain",
+                     icon=":material/download:",
+                )
 
         except Exception as e:
             st.error(f"An error occurred while running the crew: {e}")

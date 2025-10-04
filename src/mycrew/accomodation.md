@@ -1,58 +1,63 @@
-Based on your preferences for Hotel (Luxury, Boutique, Chain), a generous budget, and a specific interest in 🌿 **Nature & Wildlife**, I have curated a selection of Nairobi's finest accommodations. These options are chosen for their proximity to key wildlife attractions like Nairobi National Park, the Giraffe Centre, and the Sheldrick Wildlife Trust, as well as for their exceptional service, safety, and unique character.
+Hello! As your Accommodation Finder, I've analyzed your preferences for a stay in Nairobi from **October 18th to October 29th, 2025** (11 nights). Your interest in **🌿 Nature & Wildlife**, combined with a preference for **Luxury, Boutique, and Chain hotels** and an approximate accommodation budget of **$300 - $450 per night**, points toward the serene and leafy suburbs of Karen and Lang'ata. These areas are perfectly situated near Nairobi's premier wildlife attractions.
 
-Given your travel dates (October 18-29, 11 nights) and an approximate accommodation budget of $4,400 (after flights), your nightly budget is around **$400/night**. The recommendations below are tailored to this price point, with options both within and above for ultimate luxury.
-
-***
-
-### **Curated Accommodation Report: Nairobi**
-
-Here are the top recommendations that blend luxury with an immersive nature and wildlife experience.
+Here is a curated report of recommended accommodations that align with your criteria.
 
 ---
 
-### **Category: Ultimate Wildlife Immersion (Boutique & Lodge)**
+### **Nairobi Accommodation Recommendations: Nature & Wildlife Focus**
 
-These properties offer an unparalleled experience, placing you directly within or on the edge of nature.
+This list is curated to provide you with an immersive experience, placing you close to nature while offering the luxury and comfort you seek.
 
-| Accommodation | Type | Location | Price Range (per night) | Guest Rating |
+### **Category 1: Ultimate Wildlife Immersion (Boutique Lodges)**
+These lodges are located either inside or directly bordering Nairobi National Park, offering an unparalleled safari-style experience right from the city's edge.
+
+| Name | Type | Location | Price (per night) | Guest Rating |
 | :--- | :--- | :--- | :--- | :--- |
-| **The Emakoko** | Luxury Safari Lodge | Nairobi National Park | $450 - $650 | **9.6/10** |
-| **Ololo Lodge** | Boutique Safari Lodge | South of NNP | $350 - $550 | **9.7/10** |
-| **Giraffe Manor** | Ultra-Luxury Boutique | Lang'ata | $1,000+ (per person) | **9.8/10** |
+| **The Emakoko** | Boutique Luxury Lodge | Inside Nairobi National Park | $500 - $750+ | Superb (4.9/5) |
+| **Ololo Lodge** | Boutique Lodge | Bordering Nairobi National Park | $450 - $650+ | Excellent (9.5/10) |
 
-**Specialist Notes:**
-*   **The Emakoko:** The ultimate choice for convenience and immersion. It is uniquely situated *inside* Nairobi National Park, allowing you to start game drives directly from your doorstep. The experience is intimate and truly wild, yet only a 45-minute drive from the international airport.
-*   **Ololo Lodge:** Located on the southern boundary of the park, this beautifully restored farmhouse offers a stunning safari-chic experience with incredible views. It feels a world away from the city and provides an authentic, serene, and luxurious escape.
-*   **Giraffe Manor:** The world-famous "Giraffe Hotel." While it significantly exceeds the budget, it's a bucket-list experience worth mentioning. Guests share breakfast with resident Rothschild's giraffes. Booking is required 1-2 years in advance.
+**Why they fit your preference:**
+*   **The Emakoko:** A truly unique stay located within the park itself. You can begin your game drive directly from the lodge and often spot wildlife from your room's balcony, which overlooks the Mbagathi River. The experience is intimate, exclusive, and completely immersed in nature. Rates are often all-inclusive.
+*   **Ololo Lodge:** Situated on the park's southern boundary, this beautifully restored former farmhouse offers stunning views and a tranquil, rustic-chic atmosphere. You are minutes away from wildlife viewing and can enjoy the peace of the African bush while being close to the airport and city attractions.
 
 ---
 
-### **Category: Luxury & Boutique Hotels (Karen & Lang'ata)**
+### **Category 2: Luxury & Boutique Sanctuaries in Karen**
+The suburb of Karen is renowned for its lush gardens, colonial-style homes, and proximity to the Giraffe Centre and the Sheldrick Wildlife Trust. These hotels offer a perfect blend of luxury and natural serenity.
 
-These hotels are located in the leafy, secure suburbs of Karen and Lang'ata, providing a tranquil base just minutes from the city's main wildlife attractions.
-
-| Accommodation | Type | Location | Price Range (per night) | Guest Rating |
+| Name | Type | Location | Price (per night) | Guest Rating |
 | :--- | :--- | :--- | :--- | :--- |
-| **Hemingways Nairobi** | Luxury Boutique | Karen | $400 - $600 | **9.5/10** |
-| **House of Waine** | Boutique Hotel | Karen | $300 - $450 | **9.2/10** |
-| **Acacia Tree Lodge** | Boutique Guesthouse | Karen | $180 - $280 | **9.3/10** |
+| **Hemingways Nairobi** | Luxury Hotel | Karen | $400 - $600 | Superb (9.6/10) |
+| **House of Waine** | Boutique Hotel | Karen | $350 - $500 | Excellent (9.4/10) |
+| **Eden Nairobi** | Boutique Hotel | Lang'ata / Karen Border | $300 - $450 | Excellent (9.2/10) |
 
-**Specialist Notes:**
-*   **Hemingways Nairobi:** An all-suite, 5-star hotel offering timeless elegance and personalized butler service. Its location in Karen is ideal for visiting the nearby Giraffe Centre, Karen Blixen Museum, and Sheldrick Wildlife Trust. Perfect for those who want classic luxury.
-*   **House of Waine:** A family-owned and run boutique hotel on a private estate. It offers 11 uniquely decorated rooms, providing an intimate and exclusive feel. Its lush gardens and serene atmosphere are a perfect retreat after a day of sightseeing.
-*   **Acacia Tree Lodge:** A fantastic value proposition. It offers the charm and location of a Karen property at a more accessible price point without compromising on comfort, security, and a beautiful garden setting.
+**Why they fit your preference:**
+*   **Hemingways Nairobi:** This elegant, 5-star plantation-style hotel offers spacious suites, each with a private balcony overlooking the iconic Ngong Hills. Its manicured gardens, exceptional service, and prime location in Karen make it a top luxury choice for a peaceful retreat.
+*   **House of Waine:** A family-owned and run luxury boutique hotel on a serene, 2.5-acre property. With individually decorated rooms and beautiful grounds, it provides an intimate and exclusive feel. It’s an oasis of calm perfectly located for exploring the nearby AFEW Giraffe Centre and Karen Blixen Museum.
+*   **Eden Nairobi:** A stunning living museum and boutique hotel set in a forested area. It was created by fashion designer Anna Trzebinski and is filled with art, history, and unique artifacts. It offers a deeply atmospheric and natural stay, connecting you to Kenya's creative and wild spirit.
 
 ---
 
-### **Category: Premium Chain Hotels (Secure Urban Hubs)**
+### **Category 3: Premier Chain Hotels with a Natural Twist**
+For the reliability and amenities of a major hotel chain, these options are strategically located to offer a "best of both worlds" experience—city convenience with easy access to nature.
 
-For travelers who prefer the reliability and amenities of a major international brand, these hotels in upscale neighborhoods like Westlands offer a secure and luxurious base for exploring the city and its surroundings.
-
-| Accommodation | Type | Location | Price Range (per night) | Guest Rating |
+| Name | Type | Location | Price (per night) | Guest Rating |
 | :--- | :--- | :--- | :--- | :--- |
-| **Sankara Nairobi, Autograph** | Luxury Chain | Westlands | $250 - $400 | **9.1/10** |
-| **Villa Rosa Kempinski** | Luxury Chain | Westlands/City Centre | $280 - $450 | **9.0/10** |
+| **Radisson Blu Hotel, Arboretum** | Luxury Chain Hotel | Kilimani (near Arboretum) | $250 - $350 | Excellent (9.0/10) |
+| **Sankara Nairobi, Autograph Collection** | Luxury Chain Hotel | Westlands | $280 - $400 | Excellent (9.1/10) |
 
-**Specialist Notes:**
-*   **Sankara Nairobi, Autograph Collection:** A modern, sophisticated hotel in the heart of the vibrant Westlands district. Known for its stunning rooftop pool, excellent dining options, and top-tier security. It's a great choice for balancing urban exploration with easy day trips to wildlife areas (approx. 30-45 minute drive).
-*   **Villa Rosa Kempinski:** The benchmark for classic luxury in Nairobi. It offers impeccable service, opulent rooms, and extensive facilities. While located closer to the central business district, its concierge can arrange seamless and safe excursions to all nature and wildlife sites.
+**Why they fit your preference:**
+*   **Radisson Blu Hotel, Arboretum:** Uniquely positioned adjacent to the Nairobi Arboretum, a 75-acre urban forest. You can enjoy tranquil walks among exotic trees just steps from your hotel. It provides a green, peaceful environment while still being centrally located.
+*   **Sankara Nairobi, Autograph Collection:** While located in the vibrant Westlands district, this hotel is a pinnacle of luxury and service. It serves as an excellent, comfortable base from which you can embark on day trips to Nairobi National Park and the Karen attractions, which are about a 30-45 minute drive away via the city's bypass roads.
+
+---
+
+### **The Iconic Splurge Option**
+
+| Name | Type | Location | Price (per night) | Guest Rating |
+| :--- | :--- | :--- | :--- | :--- |
+| **Giraffe Manor** | Iconic Boutique Hotel | Lang'ata | $1,000 - $2,000+ | World-Famous |
+
+**Note:** While significantly above your estimated budget, Giraffe Manor is the quintessential nature and wildlife experience in Nairobi. Famous for its resident herd of Rothschild's giraffes that visit morning and evening, it's a once-in-a-lifetime stay. It must be booked 1-2 years in advance.
+
+I recommend booking your accommodation soon, especially for the boutique lodges and hotels in Karen, as they are very popular and have limited availability. Enjoy planning your incredible trip to Nairobi

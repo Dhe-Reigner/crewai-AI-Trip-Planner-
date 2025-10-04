@@ -1,97 +1,117 @@
-Jambo! As your dedicated Travel Budget Manager, I have meticulously analyzed your travel preferences and the expert reports provided to craft a comprehensive financial plan for your 12-day nature and wildlife adventure in Nairobi.
+### **Trip Budget & Expense Report: Nairobi Nature Adventure**
 
-My goal is to ensure you have an incredible and immersive experience while staying within your **$5,900 budget**. This report provides a detailed cost estimation and a practical tracking tool to help you manage your expenses effectively. I have prioritized a blend of luxury, comfort, and authentic experiences, making strategic choices to balance costs without compromising the quality of your trip.
-
-Below is your complete trip financial plan.
-
-***
-
-### **Trip Budget Estimation: Michigan to Nairobi**
-
-*   **Traveler(s):** 1 Adult
-*   **Duration:** 12 Days / 11 Nights (Oct 18 - Oct 29, 2025)
-*   **Total Budget:** **$5,900 USD**
-*   **Estimated Total Cost:** **$5,782 USD**
-*   **Remaining Contingency Fund:** **$118 USD** (For souvenirs, unforeseen expenses, or extra splurges)
+Hello! As your Travel Budget Manager, I have compiled a comprehensive budget estimation and expense tracking report for your 12-day nature and wildlife trip to Nairobi, Kenya. This plan is designed for **one traveler** and is optimized to align with your preferences for a comfortable and immersive experience, all while staying within your **$5,900** financial plan.
 
 ---
 
-#### **Budget Allocation Summary**
+### **Budget Overview Summary**
 
-This chart illustrates how your budget is distributed across the major travel categories.
+This summary provides a top-level view of your trip's finances, ensuring a healthy contingency fund for unexpected costs or spontaneous activities.
 
-*   **Accommodation (37%):** ███████████████
-*   **Flights (26%):** ██████████
-*   **Food & Drinks (13%):** █████
-*   **Local Transport (10%):** ████
-*   **Activities & Tours (8%):** ███
-*   **Miscellaneous (4%):** ██
-*   **Contingency (2%):** █
+| Category | Amount | Notes |
+| :--- | :--- | :--- |
+| **Total Trip Budget** | **$5,900.00** | Your maximum financial plan. |
+| **Estimated Total Expenses** | **$5,650.00** | The projected total cost for the entire trip. |
+| **Remaining Contingency Fund** | **$250.00** | A 4.5% buffer for peace of mind. |
 
 ---
 
-#### **Detailed Cost Breakdown**
+### **Part 1: Detailed Budget Estimation**
 
-Here is a line-by-line breakdown of your estimated expenses. All costs are in USD.
+Here is a detailed breakdown of all anticipated costs. Prices are estimated in USD and are based on current market rates for October 2025.
 
-| Category | Item Description | Estimated Cost | Notes & Assumptions |
+#### **1. Pre-Trip Expenses (Total Est: $1,290)**
+These are costs incurred before you depart from Michigan.
+
+| Item | Estimated Cost | Notes |
+| :--- | :--- | :--- |
+| **Round-Trip Flights (DTW-NBO)** | $1,150.00 | Based on booking a cost-effective carrier like Turkish Airlines in advance. |
+| **Comprehensive Travel Insurance**| $100.00 | Essential for medical coverage, trip cancellation, and luggage protection. |
+| **Kenya Electronic Travel Authorisation (eTA)**| $40.00 | Mandatory for U.S. citizens. Apply at least one month before travel. |
+
+#### **2. Accommodation (Total Est: $2,200)**
+This is your largest in-country expense, balanced for comfort and value.
+
+| Item | Estimated Cost | Notes |
+| :--- | :--- | :--- |
+| **11 Nights in Nairobi Hotel** | $2,200.00 | Budgeted at **$200/night**. This allows for an excellent boutique guesthouse or a reputable chain hotel like the Radisson Blu, providing comfort without overspending. |
+
+#### **3. Daily On-Ground Expenses (Total Est: $2,160)**
+This category covers your day-to-day spending on food, transport, and activities for 11 full days in Nairobi.
+
+| Category | Daily Average | Total for Trip | Notes |
 | :--- | :--- | :--- | :--- |
-| **✈️ Flights** | Round-trip flight (DTW-NBO) | **$1,550** | Based on the recommended KLM "Balanced Choice" option. Price is an estimate; booking 3-6 months in advance is advised. |
-| **🏨 Accommodation**| 11 nights in a luxury/boutique hotel | **$2,200** | Budgeted at an average of $200/night. This rate secures excellent properties like the Acacia Tree Lodge in Karen or a premium chain hotel like Sankara Nairobi in Westlands, balancing luxury with your budget. |
-| **🚗 Local Transport**| Hybrid Model (Driver & Ride-Hailing) | **$585** | To optimize costs, this budget includes a private driver for 4 full-day excursions ($360), airport transfers ($50), and a generous allowance for using Uber/Bolt for shorter city trips ($175). |
-| **🍽️ Food & Drinks**| Daily food and beverage allowance | **$780** | Budgeted at $65/day. This comfortably covers meals at a mix of high-quality restaurants (The Talisman), charming cafes (River Café), and unique dining experiences (Carnivore), as recommended in your itinerary. |
-| **🏞️ Activities & Tours**| All entrance fees and guided tours | **$440** | Covers all planned activities: Nairobi National Park ($43), Sheldrick Trust ($15), Giraffe Centre ($15), Lake Naivasha Day Tour ($180), Karen Blixen Museum ($12), Bomas of Kenya ($10), and all others listed in the itinerary. |
-| **📋 Miscellaneous** | Visas, tips, and other essentials | **$227** | Includes the mandatory Kenya e-Visa fee (~$51) and a tipping budget (~$176) for your driver-guides, hotel staff, and restaurants, following local customs. |
-| **💰 Contingency** | Emergency fund / Souvenirs | **$118** | A buffer for any unexpected costs, price fluctuations, or for purchasing items at the Maasai Market and Utamaduni Craft Centre. |
-| **---** | **---** | **---** | **---** |
-| **📊 TOTAL** | **ESTIMATED TRIP COST** | **$5,782** | **This plan leaves you with a buffer while ensuring a fantastic and well-managed trip.** |
+| **Food & Dining** | $80.00 | $880.00 | A blend of fine dining experiences (e.g., The Talisman) and high-quality, casual meals. Breakfast is often included with your hotel. |
+| **Local Transportation** | $30.00 | $330.00 | Using ride-sharing apps like Uber/Bolt for safe and convenient travel. This is highly recommended over public matatus. |
+| **Activities & Tours**| ~$55.00 | $600.00 | See the detailed activity cost breakdown below. |
+
+---
+**Itemized Activity & Entrance Fee Breakdown (Est. Total: $600)**
+
+| Activity | Est. Cost (per person) |
+| :--- | :--- |
+| Karen Blixen Museum | $12.00 |
+| Sheldrick Wildlife Trust (Booking Fee) | $17.00 |
+| AFEW Giraffe Centre | $15.00 |
+| **Nairobi National Park Experience** | **$250.00** |
+| *(Includes ~$100 park fee + ~$150 for a private half-day 4x4 vehicle & guide)* | |
+| Nairobi Safari Walk | $22.00 |
+| Karura Forest Entrance | $5.00 |
+| **Day Trip to Lake Naivasha & Hell's Gate**| **$220.00**|
+| *(Includes private transport, guide, boat safari, and park fees)* | |
+| Bomas of Kenya | $10.00 |
+| Kiambethu Tea Farm (Tour & Lunch) | $40.00 |
+| Oloolua Nature Trail | $2.00 |
+
+---
+#### **4. Miscellaneous Expenses (Total Est: $350)**
+This budget covers tips, souvenirs, and other personal spending.
+
+| Item | Estimated Cost | Notes |
+| :--- | :--- | :--- |
+| **Tipping** | $200.00 | For safari guides ($10-15/day), drivers, hotel staff, and restaurant service (10%). |
+| **Souvenirs & Shopping** | $150.00 | For shopping at places like Utamaduni Craft Centre and Kazuri Beads Factory. |
 
 ---
 
-### **Expense Tracking Report**
+### **Part 2: Budget Optimization & Management Advice**
 
-To help you stay on track, use the markdown table below during your trip. You can copy and paste this into a notes app on your phone or print it out. Update it daily to see how your actual spending compares to your budget.
+As your Travel Budget Manager, my goal is to ensure you have an amazing trip without financial stress. Here are key strategies reflected in this budget:
 
-**Instructions:** At the end of each day, log your expenses. This will give you a clear picture of your spending habits and help you make adjustments as needed.
+*   **Book Flights Early:** The flight cost is based on booking several months in advance. Securing a deal with an airline like Turkish or Qatar Airways will be your biggest initial saving.
+*   **Balanced Accommodation:** While luxury is a priority, selecting a hotel in the $200/night range instead of the $400/night range saves over $2,000, making the entire trip feasible within your budget. Nairobi has fantastic boutique hotels that offer luxury experiences at this price point.
+*   **Smart Dining:** Your itinerary includes some of Nairobi's best restaurants. To stay on budget, I recommend balancing these splurge meals with equally delicious but more affordable options at modern cafes or mall food courts like those at The Hub Karen.
+*   **Safe Transportation:** While "public transport" was noted, for safety, efficiency, and comfort, this budget relies on ride-sharing apps (Uber/Bolt). They are very affordable in Nairobi and are the standard for tourists and locals alike. A private driver for a full day can also be cost-effective for packed itineraries.
 
-```markdown
-### **Nairobi Trip - Expense Tracker**
+---
 
-**Total Budget: $5,900.00**
-| Date | Item Description | Category | Budgeted ($) | Actual ($) | Notes |
-| :--- | :--- | :--- | :---: | :---: | :--- |
-| **Pre-Trip** | **Flight: DTW-NBO** | Flights | 1,550.00 | | |
-| **Pre-Trip** | **Kenya e-Visa** | Miscellaneous | 51.00 | | |
-| **Oct 18** | Dinner at Hotel | Food & Drinks | 65.00 | | Arrival Day |
-| **Oct 18** | Airport Transfer | Transport | 25.00 | | |
-| **Oct 19** | Giraffe Centre | Activities | 15.00 | | |
-| **Oct 19** | Lunch: The Talisman | Food & Drinks | (65.00) | | |
-| **Oct 19** | Uber to/from sites | Transport | (25.00) | | |
-| **Oct 20** | Sheldrick Trust | Activities | 15.00 | | |
-| **Oct 20** | Bomas of Kenya | Activities | 10.00 | | |
-| **Oct 20** | Lunch/Dinner | Food & Drinks | (65.00) | | |
-| **Oct 21** | Private Driver (Full Day)| Transport | 90.00 | | NNP Tour |
-| **Oct 21** | NNP Entrance Fee | Activities | 43.00 | | |
-| **Oct 21** | Dinner: Carnivore | Food & Drinks | (65.00) | | (~$40pp) |
-| **Oct 22** | Karura Forest Entry | Activities | 6.00 | | |
-| **Oct 22** | National Museum | Activities | 12.00 | | |
-| **Oct 23** | Lake Naivasha Tour | Activities | 180.00 | | |
-| **Oct 23** | Private Driver (Full Day)| Transport | 90.00 | | Rift Valley Trip |
-| **Oct 24** | Karen Blixen Museum | Activities | 12.00 | | |
-| **Oct 24** | Coffee Tour | Activities | 30.00 | | |
-| **Oct 25** | Souvenirs | Contingency | (118.00) | | Maasai Market |
-| **Oct 26** | Safari Walk | Activities | 22.00 | | |
-| **Oct 27** | Ngong Hills Guide | Activities | 40.00 | | |
-| **Oct 27** | Private Driver (Full Day)| Transport | 90.00 | | Hike Day |
-| **Oct 28** | Farewell Dinner | Food & Drinks | (65.00) | | |
-| **Oct 29** | Airport Transfer | Transport | 25.00 | | Departure Day |
-| **End** | **Tips for Guides/Staff**| Miscellaneous| 176.00 | | |
-| | | **DAILY TOTAL** | | | |
-| | | **RUNNING TOTAL** | | | |
+### **Part 3: Trip Expense Tracking Sheet**
 
-*Note: Daily budget amounts in parentheses are part of a daily total, not additive.*
-```
+Use this markdown table to track your spending against the budget. This will help you stay on plan throughout your trip.
 
-This financial plan is designed to be a robust guide. Remember that prices can fluctuate, but by tracking your spending, you'll be empowered to make the most of your incredible Kenyan adventure.
-
-*Safari njema* (have a good trip)
+| Date | Category | Item Description | Estimated Cost | Actual Cost | Difference |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Pre-Trip** | Flights | Round-Trip Flights DTW-NBO | $1,150.00 | | |
+| **Pre-Trip** | Documents | Kenya eTA | $40.00 | | |
+| **Pre-Trip** | Insurance | Travel Insurance Policy | $100.00 | | |
+| **Oct 18** | Accommodation | **Total Hotel Bill (11 nights)** | **$2,200.00** | | |
+| **Oct 18** | Transport | Airport Transfer to Hotel | $20.00 | | |
+| **Oct 19** | Activities | Karen Blixen, Sheldrick, Giraffe Centre | $44.00 | | |
+| **Oct 19** | Food | Lunch (Talisman) & Dinner | $80.00 | | |
+| **Oct 20** | Activities | NNP Game Drive & Safari Walk | $272.00 | | |
+| **Oct 20** | Food | Lunch (Carnivore) & Dinner | $80.00 | | |
+| **Oct 21** | Activities | Karura Forest | $5.00 | | |
+| **Oct 21** | Food | Lunch & Dinner (Zen Garden) | $80.00 | | |
+| **Oct 22** | Activities | **Day Trip: Naivasha & Hell's Gate** | **$220.00** | | |
+| **Oct 22** | Food | Lunch (included) & Dinner | $40.00 | | |
+| **Oct 23** | Food | Lunch & Dinner (Hemingways) | $80.00 | | |
+| **Oct 24-27**| Activities | *Flexible: Bomas, Tea Farm, etc.*| $52.00 | | |
+| **Oct 24-27**| Food | Daily Allowance (4 days) | $320.00 | | |
+| **Oct 28** | Food | Farewell Dinner (Tamarind) | $80.00 | | |
+| **Oct 28** | Transport | Transfer to NBO Airport | $20.00 | | |
+| **Ongoing** | Transport | Daily Ubers/Bolts | $290.00 | | |
+| **Ongoing** | Misc. | Souvenirs & Shopping | $150.00 | | |
+| **Ongoing** | Misc. | Tips for Guides, Drivers, Staff | $200.00 | | |
+| | | **SUBTOTALS** | **$5,650.00**| | |
+| | | | | **TOTAL SPENT:** | |
+| | | | | **BUDGET REMAINING:**| |
