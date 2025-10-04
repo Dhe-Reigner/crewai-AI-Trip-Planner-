@@ -1,172 +1,169 @@
-Hello! As your Daily Itinerary Planner, I've crafted a comprehensive 12-day itinerary for your trip to Nairobi, focusing on your passion for **🌿 Nature & Wildlife**. This plan is designed to be immersive and well-paced, leveraging the convenience of your potential accommodation in the Karen/Lang'ata area. It considers your arrival late on October 18th and your departure in the early hours of October 29th, 2025.
+Olá! Welcome to your personalized Rio de Janeiro adventure. As your dedicated itinerary expert, I have crafted a 12-day plan that weaves together your passions for culture, nature, art, beaches, and authentic local experiences. This itinerary is designed to be a perfect blend of Rio’s iconic sights and its hidden treasures, ensuring a trip that is both exhilarating and relaxing.
 
-Here is your personalized daily plan:
+Based on your flight details, you will be arriving on **Saturday, October 18th, 2025**, and departing on **Wednesday, October 29th, 2025**. This plan assumes a mid-morning arrival, but can be easily adjusted.
 
-### **Your Nairobi Nature & Wildlife Adventure: October 18 - 29, 2025**
+### **Pre-Trip Booking Recommendations**
 
----
+To ensure a seamless experience, I highly recommend booking the following in advance:
 
-### **Day 1: Saturday, 18th October 2025 - Arrival in Nairobi**
-
-*   **Evening (7:30 PM - 10:30 PM): Arrival & Transfer**
-    *   **Activity:** Arrive at Jomo Kenyatta International Airport (NBO). After clearing immigration and collecting your luggage, you will be met by your pre-booked driver or hotel transfer.
-    *   **Description:** The journey to your hotel in the Karen/Lang'ata area will take approximately 45-60 minutes, depending on traffic. This is a great time to get a first glimpse of the city at night.
-    *   **Dinner:** A light dinner or room service at your hotel. Settle in and rest after your long journey.
-
----
-
-### **Day 2: Sunday, 19th October 2025 - The Karen "Big Three"**
-
-This day is dedicated to the iconic wildlife conservation centers in the Karen suburb.
-
-*   **9:00 AM - 10:30 AM: Karen Blixen Museum**
-    *   **Activity:** Explore the former home of the Danish author Karen Blixen, famous for her book "Out of Africa."
-    *   **Description:** The beautifully preserved colonial farmhouse and gardens offer a tranquil glimpse into Kenya's past. The green, serene environment is a perfect, gentle start to your trip.
-    *   **Time:** 1.5 hours.
-
-*   **10:45 AM - 12:15 PM: Sheldrick Wildlife Trust Elephant Orphanage**
-    *   **Activity:** Witness the feeding of orphaned baby elephants.
-    *   **Description:** This is a heartwarming experience where you'll watch the young elephants play, feed, and interact with their keepers. You will learn about their rescue stories and the conservation efforts to reintroduce them to the wild. The public viewing is strictly from 11:00 AM to 12:00 PM.
-    *   **Time:** 1.5 hours (arrive by 10:45 AM).
-    *   **Booking:** **MANDATORY.** See booking section below.
-
-*   **12:30 PM - 2:00 PM: Lunch at The Talisman**
-    *   **Dining:** Enjoy lunch at one of Nairobi's most acclaimed restaurants, known for its beautiful garden setting and diverse, Pan-Asian and European fusion menu.
-
-*   **2:15 PM - 4:00 PM: AFEW Giraffe Centre**
-    *   **Activity:** Get up close and personal with the endangered Rothschild's giraffes.
-    *   **Description:** From a raised platform, you can hand-feed the giraffes, get a famous "giraffe kiss," and learn about the conservation of this specific subspecies.
-    *   **Time:** 1.5 - 2 hours.
-
-*   **Evening: Dinner at House of Waine**
-    *   **Dining:** Enjoy a quiet, elegant dinner at this boutique hotel, known for its superb service and serene atmosphere.
+*   **Christ the Redeemer (Trem do Corcovado):** Book tickets online at least a week in advance for your desired time slot to avoid long queues and potential sell-outs. **Website:** `tremdocorcovado.rio`
+*   **Sugarloaf Mountain Cable Car (Bondinho Pão de Açúcar):** Purchase tickets online to use the express lane, saving you significant waiting time. **Website:** `bondinho.com.br`
+*   **Guided Favela Tour:** Essential to book with a reputable and ethical tour company that supports the local community. Research companies like `Favela Walking Tour` or `bealocal.com`.
+*   **Guanabara Bay Boat Tour:** Book in advance, especially if you want a private or small-group tour. Check options on platforms like GetYourGuide or Viator.
+*   **Specialty Dining:** For high-demand restaurants like Aprazível or Lasai, reservations are a must, often weeks in advance.
 
 ---
 
-### **Day 3: Monday, 20th October 2025 - The Urban Safari**
+### **Your Day-by-Day Rio de Janeiro Itinerary**
 
-*   **6:00 AM - 11:30 AM: Nairobi National Park Game Drive**
-    *   **Activity:** Embark on an early morning game drive in the world's only national park within a capital city.
-    *   **Description:** The early hours offer the best chance to see predators like lions and leopards, as well as a rich population of black rhinos, giraffes, zebras, and buffalo, all against the unique backdrop of the city skyline.
-    *   **Time:** 4-5 hours.
-    *   **Booking:** A safari vehicle (4x4) with a guide is essential for the best experience.
+#### **Day 1: Saturday, Oct 18 - Arrival & Sunset on the Coast (🏝️ Culture)**
 
-*   **12:00 PM - 2:00 PM: Lunch at Carnivore Restaurant**
-    *   **Dining:** A truly iconic Nairobi experience. Famous for its "Beast of a Feast" menu where various types of meat (including ostrich and crocodile) are roasted on traditional Maasai swords and carved at your table. A vegetarian menu is also available.
+*   **Morning/Afternoon (10:00 AM - 3:00 PM): Arrival & Settle In**
+    *   **Activity:** Arrive at Rio de Janeiro–Galeão International Airport (GIG). Pass through immigration, collect your luggage, and take a pre-booked transfer or an official airport taxi/Uber to your accommodation. Settle in and take a moment to refresh.
+    *   **Time:** 3-4 hours (including transfer).
+*   **Late Afternoon (4:00 PM - 6:30 PM): Ipanema Sunset at Arpoador**
+    *   **Activity:** Head to Arpoador rock, the peninsula between Copacabana and Ipanema. This is the ultimate local spot to watch the sunset over the Dois Irmãos (Two Brothers) mountains. Join the Cariocas (Rio locals) as they applaud the sun dipping below the horizon. This is a perfect, gentle introduction to Rio's beach culture.
+    *   **Time:** 2.5 hours.
+*   **Evening (7:30 PM onwards): Dinner in Leblon**
+    *   **Dining:** Walk to the sophisticated neighborhood of Leblon.
+    *   **Recommendation:** **Zazá Bistrô Tropical**. A vibrant and eclectic restaurant with delicious Brazilian-Asian fusion cuisine and fantastic cocktails. It has a magical, whimsical atmosphere. For a more traditional vibe, find a local *boteco* on Rua Dias Ferreira for your first *chopp* (draft beer) and *petiscos* (appetizers).
 
-*   **2:30 PM - 4:30 PM: Nairobi Safari Walk & Animal Orphanage**
-    *   **Activity:** A relaxed walk along raised boardwalks to see animals in habitats mimicking their natural environment.
-    *   **Description:** Located at the entrance of the National Park, this is a great way to see animals you might have missed on the drive up close, including the rare Bongo antelope.
+#### **Day 2: Sunday, Oct 19 - The Icons of Rio (🌿 Nature, 🗺️ Off-the-beaten-path)**
+
+*   **Morning (8:00 AM - 12:00 PM): Christ the Redeemer**
+    *   **Activity:** Take an early train up Corcovado Mountain to the Christ the Redeemer statue. Going early helps you beat the crowds and the midday heat, offering clearer panoramic views of the city, Guanabara Bay, and the Tijuca Forest.
+    *   **Booking:** **Pre-booking your train ticket online is essential.**
+    *   **Time:** 4 hours (including travel).
+*   **Lunch (12:30 PM - 2:00 PM): A Taste of Santa Teresa**
+    *   **Dining:** Head to the bohemian Santa Teresa neighborhood.
+    *   **Recommendation:** **Aprazível**. Perched on a hill, this stunning restaurant offers incredible food and even more incredible views in a rustic-chic, treehouse-like setting. It's a splurge, but an unforgettable experience. (Reservations are mandatory). For a more casual option, try **Bar do Mineiro** for classic Brazilian comfort food.
+*   **Afternoon (2:30 PM - 6:00 PM): Sugarloaf Mountain**
+    *   **Activity:** Take the two-stage cable car up to the top of Pão de Açúcar (Sugarloaf Mountain). The first car takes you to Morro da Urca, and the second takes you to the peak. The 360-degree views, especially as the sun begins to set, are breathtaking. You might even spot some marmosets in the trees on Morro da Urca.
+    *   **Booking:** **Book your tickets online in advance to skip the main queue.**
+    *   **Time:** 3.5 hours.
+*   **Evening (7:30 PM onwards): Dinner in Urca**
+    *   **Dining:** Explore the charming and safe residential neighborhood of Urca at the base of Sugarloaf.
+    *   **Recommendation:** **Bar Urca**. A classic Rio institution. Grab beers and their famous *empadas* (savory pies) or *bolinhos de bacalhau* (codfish cakes) from the takeaway counter and enjoy them sitting on the sea wall overlooking the bay—a true local experience.
+
+#### **Day 3: Monday, Oct 20 - Historic Heart & Bohemian Soul (🎭 History, 🎨 Art)**
+
+*   **Morning (9:30 AM - 1:00 PM): Centro Histórico Walking Tour**
+    *   **Activity:** Explore Rio’s historical downtown (Centro). Start at the **Theatro Municipal**, a stunning opera house. Walk to the **National Library** and the **Museu Nacional de Belas Artes**. Continue through the bustling streets to **Confeitaria Colombo**, a magnificent Belle Époque café. Stop in for a coffee and pastry—it’s like stepping back in time.
+    *   **Time:** 3.5 hours.
+*   **Lunch (1:00 PM - 2:00 PM): Local Lunch in Centro**
+    *   **Dining:** Experience a "kilo" restaurant, where you pay by weight. It's a fantastic way to sample a wide variety of Brazilian dishes. Look for any busy one near the Candelária Church.
+*   **Afternoon (2:30 PM - 5:30 PM): Santa Teresa Exploration**
+    *   **Activity:** Take the famous yellow **Santa Teresa Tram** from Centro up the hill. Wander the cobblestone streets, admire the decaying mansions, pop into artist studios (ateliês), and discover vibrant street art. This neighborhood is the heart of your 🎭, 🎨, and 🗺️ interests.
+    *   **Time:** 3 hours.
+*   **Evening (6:30 PM onwards): Lapa's Arches & Rhythms**
+    *   **Activity & Dining:** As dusk falls, walk down from Santa Teresa via the **Escadaria Selarón** (Selarón Steps), a world-famous art piece. From there, you are in Lapa. Have dinner at a casual spot like **Boteco Belmonte** for great food and a lively atmosphere. Afterward, dive into Rio's music scene.
+    *   **Recommendation:** **Carioca da Gema** or **Rio Scenarium** for live samba and choro music. Rio Scenarium is a visual spectacle, a three-story building filled with antiques. (Book tickets for Rio Scenarium).
+
+#### **Day 4: Tuesday, Oct 21 - Urban Rainforest Immersion (🌿 Nature, 🎨 Art)**
+
+*   **Morning (9:00 AM - 1:00 PM): Tijuca National Forest**
+    *   **Activity:** Explore the world's largest urban rainforest. I recommend hiring a guide or taking a jeep tour to see the highlights efficiently. Key spots include the **Vista Chinesa** (Chinese Viewpoint) for spectacular views and the **Cachoeira do Horto** (Horto Waterfall) for a refreshing dip.
+    *   **Time:** 4 hours.
+*   **Lunch (1:30 PM - 2:30 PM): Casual Bite in Jardim Botânico**
+    *   **Dining:** After your forest adventure, grab lunch in the leafy Jardim Botânico neighborhood.
+    *   **Recommendation:** **La Bicyclette**, located at the entrance of the Botanical Garden, offers delicious French-inspired sandwiches, quiches, and pastries in a beautiful setting.
+*   **Afternoon (2:30 PM - 5:00 PM): Jardim Botânico (Botanical Garden)**
+    *   **Activity:** Spend the afternoon strolling through the serene Rio de Janeiro Botanical Garden. Don't miss the iconic Avenue of Royal Palms, the orchid house, and the Amazonian section. It's a peaceful haven for nature lovers.
+    *   **Time:** 2.5 hours.
+*   **Evening (7:00 PM onwards): Dinner & Bossa Nova**
+    *   **Dining:** Head to Copacabana.
+    *   **Recommendation:** Have dinner at **Pérgula Restaurant** at the Copacabana Palace for a touch of classic glamour. Afterward, find an intimate bar for live Bossa Nova. **Beco das Garrafas** is a legendary alleyway with a few small clubs where the genre was born.
+
+#### **Day 5: Wednesday, Oct 22 - Art, Lagoa & Local Life (🎨 Art, 🎭 Local Life)**
+
+*   **Morning (10:00 AM - 12:30 PM): Parque Lage**
+    *   **Activity:** Visit this stunning public park at the foot of Corcovado. It features a historic mansion (now an art school) with a beautiful courtyard and café framing Christ the Redeemer. Wander the trails and discover hidden grottos and towers. It’s a perfect blend of 🌿, 🎨, and 🎭.
+    *   **Time:** 2.5 hours.
+*   **Lunch (1:00 PM - 2:30 PM): Lagoon-side Dining**
+    *   **Dining:** Enjoy lunch with a view of the Rodrigo de Freitas Lagoon.
+    *   **Recommendation:** **Palaphita Kitch**. This Amazonian-themed lounge offers unique dishes and drinks in a rustic, open-air setting right on the water's edge.
+*   **Afternoon (3:00 PM - 5:00 PM): Bike Around the Lagoon**
+    *   **Activity:** Rent bikes and cycle the 7.5 km (4.6 mile) path that circles the entire lagoon. It's a fantastic, flat ride offering beautiful views of the surrounding mountains and neighborhoods. This is a favorite pastime for locals.
     *   **Time:** 2 hours.
+*   **Evening (7:00 PM onwards): A Culinary Deep Dive**
+    *   **Activity:** Take a Brazilian cooking class. This is an amazing way to connect with local culture. Classes often include a trip to a local market beforehand. **Cook in Rio** is a highly-rated option.
+    *   **Booking:** Must be booked in advance.
 
-*   **Evening: Relaxed Dinner**
-    *   **Dining:** Enjoy a casual dinner at your hotel or explore a local spot like "Artcaffe" in the Karen Hub mall.
+#### **Day 6: Thursday, Oct 23 - Off-the-Beaten-Path Beaches (🏝️ Beaches, 🗺️ Off-the-beaten-path)**
 
----
+*   **Full Day (9:30 AM - 5:00 PM): Prainha & Grumari**
+    *   **Activity:** Escape the city crowds and visit the wild, protected beaches of Prainha and Grumari. Located in a nature reserve, these beaches are favorites among surfers and locals. The coastline is ruggedly beautiful and pristine. This requires hiring a driver for the day or taking a specialized tour, as public transport is difficult.
+    *   **Lunch:** Have lunch at one of the rustic seafood restaurants in the Grumari area, like **Restaurante Point de Grumari**, for incredibly fresh fish with your feet in the sand.
+    *   **Time:** 7-8 hours (including travel).
+*   **Evening (7:30 PM onwards): Relaxed Dinner in your Neighborhood**
+    *   **Dining:** After a long day in the sun, enjoy a relaxed dinner close to your accommodation. Explore a local spot you've had your eye on.
 
-### **Day 4: Tuesday, 21st October 2025 - Forest Walks & Local Crafts**
+#### **Day 7: Friday, Oct 24 - Community, Culture & Samba (🎭 Culture, 🗺️ Local Life)**
 
-*   **9:00 AM - 1:00 PM: Karura Forest Exploration**
-    *   **Activity:** Hiking or biking through a lush urban forest.
-    *   **Description:** Escape into nature with a visit to this protected forest. Follow the trails to see waterfalls, caves, and native trees. You can rent a bike or simply enjoy a long, peaceful walk.
-    *   **Time:** 3-4 hours.
-
-*   **1:00 PM - 2:30 PM: Lunch at The River Cafe**
-    *   **Dining:** Located inside Karura Forest, this cafe offers a beautiful and tranquil setting for a meal amidst the trees.
-
-*   **3:00 PM - 4:30 PM: Kazuri Beads Factory**
-    *   **Activity:** Tour the workshop and shop for handmade jewelry.
-    *   **Description:** Kazuri, meaning "small and beautiful" in Swahili, is a social enterprise that employs disadvantaged local women. Watch the artisans create beautiful ceramic beads and pottery, and purchase unique souvenirs that support a great cause.
+*   **Morning (9:00 AM - 1:00 PM): Educational Favela Experience**
+    *   **Activity:** Take a guided tour of a pacified favela like Rocinha or Vidigal. A good tour focuses on the community's culture, art, and daily life, providing a respectful and insightful perspective beyond the stereotypes. It's a powerful cultural experience.
+    *   **Booking:** **Essential to book with a reputable, community-focused company.**
+    *   **Time:** 4 hours.
+*   **Lunch (1:30 PM - 3:00 PM): Northeastern Flavors at Feira de São Cristóvão**
+    *   **Dining & Activity:** Head to this sprawling indoor market and cultural center dedicated to Brazil's Northeast. Graze on delicious food like *carne de sol* (sun-dried beef) and *aipim frito* (fried cassava). On weekends, there's live *forró* music and dancing.
     *   **Time:** 1.5 hours.
+*   **Afternoon (3:00 PM - 5:00 PM): Relax & Recharge**
+    *   **Activity:** After an intense and rewarding morning, take the afternoon to relax at your accommodation or enjoy a casual walk.
+*   **Evening (9:00 PM onwards): Samba in the Streets**
+    *   **Activity:** Experience the famous **Pedra do Sal** (Rock of Salt), the birthplace of samba in Rio. On Monday and Friday nights, musicians gather for a lively, informal *roda de samba* (samba circle) in the street. It's an incredibly authentic and energetic cultural event. Grab a caipirinha from a street vendor and soak it all in.
 
-*   **Evening: Dinner at Zen Garden**
-    *   **Dining:** A stunning restaurant in the Spring Valley area with three distinct dining areas set in beautiful Asian-style gardens.
+#### **Day 8: Saturday, Oct 25 - A Bay of Islands (🏝️ Beaches, 🌿 Nature)**
 
----
+*   **Full Day (9:00 AM - 5:00 PM): Guanabara Bay Boat Tour**
+    *   **Activity:** See Rio from a different perspective. Take a boat tour of Guanabara Bay. Most tours sail past the Rio-Niterói Bridge, the futuristic Niterói Contemporary Art Museum (designed by Oscar Niemeyer), and various forts. Many tours stop for swimming and snorkeling near Paquetá Island or other secluded beaches within the bay. It's a relaxing day on the water that combines stunning views with beach time.
+    *   **Booking:** Book your preferred tour (schooner, sailboat, private yacht) in advance.
+    *   **Time:** 6-8 hours.
+*   **Evening (7:30 PM onwards): Fine Dining Experience**
+    *   **Dining:** Indulge in one of Rio's top-rated restaurants.
+    *   **Recommendation:** **Lasai** (in Botafogo) for a Michelin-starred farm-to-table tasting menu, or **Mee** at the Copacabana Palace for high-end Pan-Asian cuisine. (Reservations are essential and must be made far in advance).
 
-### **Day 5: Wednesday, 22nd October 2025 - Day Trip to the Great Rift Valley**
+#### **Day 9: Sunday, Oct 26 - Markets, Museums & Modern Art (🎨 Art, 🎭 Culture)**
 
-*   **7:00 AM - 6:00 PM: Lake Naivasha & Hell's Gate National Park**
-    *   **Activity:** A full-day excursion to the Great Rift Valley.
-    *   **Description:**
-        *   **Morning (Hell's Gate):** Start by cycling or hiking through the dramatic gorge of Hell's Gate National Park, the inspiration for Disney's "The Lion King."
-        *   **Lunch:** Enjoy lunch at a lakeside lodge like Sopa Resort Naivasha.
-        *   **Afternoon (Lake Naivasha):** Take a boat safari on Lake Naivasha to see hippos and a stunning variety of birdlife. Optionally, visit Crescent Island for a walking safari among giraffes, zebras, and wildebeest.
-    *   **Time:** Full day (approx. 11 hours).
-    *   **Booking:** **Highly Recommended.** Book a full-day tour with a reputable operator.
+*   **Morning (10:00 AM - 1:00 PM): Hippie Fair & Local Art**
+    *   **Activity:** Visit the **Feira Hippie de Ipanema** (Ipanema Hippie Fair), held every Sunday. It's a fantastic place to find unique handicrafts, art, leather goods, and souvenirs. It's a lively, colorful scene and a great place to feel the local Sunday vibe.
+    *   **Time:** 3 hours.
+*   **Lunch (1:00 PM - 2:00 PM): Casual Beachside Lunch**
+    *   **Dining:** Grab lunch from one of the many *barracas* (kiosks) along Ipanema or Copacabana beach. Enjoy fresh coconut water, grilled cheese on a stick (*queijo coalho*), or an açaí bowl.
+*   **Afternoon (2:30 PM - 5:30 PM): Museum Mile at Praça Mauá**
+    *   **Activity:** Explore the revitalized port district and its two incredible museums. Start at the **Museu de Arte do Rio (MAR)**, which beautifully contrasts modern and historical architecture and art. Then, visit the stunning, futuristic **Museu do Amanhã (Museum of Tomorrow)**, an immersive science museum designed by Santiago Calatrava.
+    *   **Time:** 3 hours.
+*   **Evening (7:00 PM onwards): Pizza Night in Botafogo**
+    *   **Dining:** Botafogo has become a trendy culinary hub.
+    *   **Recommendation:** **Ferro e Farinha**. Known for its incredible artisanal pizzas cooked in a massive wood-fired oven. The vibe is cool, industrial-chic, and always buzzing.
 
----
+#### **Day 10: Monday, Oct 27 - Your Choice & Relaxation**
 
-### **Day 6: Thursday, 23rd October 2025 - Rest, Relax & Retail**
+*   **Full Day: Traveler's Choice**
+    *   **Activity:** This day is intentionally left open for you to relax, revisit a favorite spot, or explore something new based on your interests.
+    *   **Option 1 (Nature/Adventure 🌿):** Hike up Pedra Bonita for an incredible view over São Conrado and a launch point for hang gliders, or hike the first part of the Sugarloaf trail (Morro da Urca).
+    *   **Option 2 (Culture/History 🎭):** Visit the **Mosteiro de São Bento**, a stunning monastery in Centro with an ornate gold-leaf interior.
+    *   **Option 3 (Relaxation 🏝️):** Simply have a classic beach day. Rent chairs and an umbrella on Ipanema, read a book, people-watch, and enjoy the ocean.
+    *   **Option 4 (Art/Shopping 🎨):** Explore the boutiques and art galleries in Ipanema and Leblon.
 
-*   **Morning: At Leisure**
-    *   **Activity:** After a long day trip, take this morning to relax. Enjoy the amenities of your hotel, such as the pool or spa, or simply relax with a book in the garden.
+#### **Day 11: Tuesday, Oct 28 - Last Views & Souvenirs (🗺️ Hidden Gems, 🎭 Local Life)**
 
-*   **12:30 PM - 2:00 PM: Lunch at Boho Eatery**
-    *   **Dining:** A charming, eco-friendly restaurant in Karen with a focus on healthy, organic food served in a beautiful garden setting.
+*   **Morning (10:00 AM - 12:00 PM): Mirante Dona Marta**
+    *   **Activity:** For one last epic view with fewer crowds, head to Mirante Dona Marta. It offers a postcard-perfect panorama of Sugarloaf, Christ the Redeemer, and Botafogo Bay. It’s often considered one of the best viewpoints in the city.
+    *   **Time:** 2 hours (including travel).
+*   **Lunch (1:00 PM - 2:30 PM): Churrascaria Experience**
+    *   **Dining:** You can't leave Brazil without experiencing a traditional *churrascaria* (steakhouse).
+    *   **Recommendation:** **Fogo de Chão** in Botafogo offers incredible cuts of meat and stunning views of the bay. Go hungry!
+*   **Afternoon (3:00 PM - 5:30 PM): Last-Minute Shopping & Packing**
+    *   **Activity:** Use this time for any last-minute souvenir shopping or to pack and organize for your departure.
+*   **Evening (7:30 PM onwards): Farewell Dinner**
+    *   **Dining:** Enjoy a final memorable meal.
+    *   **Recommendation:** **Marius Degustare**. A wildly decorated, all-you-can-eat seafood and steakhouse in Leme. It's a sensory overload in the best way possible and a fun, festive way to end your trip.
 
-*   **2:30 PM - 5:00 PM: Utamaduni Craft Centre**
-    *   **Activity:** Relaxed souvenir shopping.
-    *   **Description:** Housed in a converted house, Utamaduni offers a vast collection of crafts from around Kenya in different rooms. It's a hassle-free, fixed-price alternative to the bustling markets.
-    *   **Time:** 2-2.5 hours.
+#### **Day 12: Wednesday, Oct 29 - Adeus, Rio!**
 
-*   **Evening: Fine Dining at Hemingways Nairobi**
-    *   **Dining:** Indulge in an exquisite fine dining experience at The Brasserie in Hemingways Hotel, known for its European-inspired cuisine and elegant ambiance.
+*   **Morning (9:30 AM - 12:00 PM): Final Brazilian Coffee**
+    *   **Activity:** Enjoy a final leisurely breakfast. Visit a local *padaria* (bakery) for fresh *pão de queijo* (cheese bread) and a great Brazilian coffee. Take one last walk on the beach or through your favorite neighborhood.
+*   **Afternoon: Departure**
+    *   **Activity:** Depending on your flight schedule, head to Galeão International Airport (GIG). Be sure to allow at least 3-4 hours before your flight for check-in and security.
 
----
-
-### **Days 7-10: Deeper Dives & Flexible Exploration (Fri 24th - Mon 27th)**
-
-This period allows for deeper exploration and flexibility. You can choose from the following or revisit a favorite spot.
-
-*   **Option 1 (Full Day): Kiambethu Tea Farm (Booking Essential)**
-    *   A delightful trip to Limuru to learn about tea processing, enjoy a walk in an indigenous forest, and have a fantastic 3-course lunch on the lawn of a colonial-era farmhouse. A truly unique Kenyan experience.
-
-*   **Option 2 (Half Day): Bomas of Kenya**
-    *   Experience Kenya's rich cultural diversity through traditional music, dance performances, and architectural displays of various tribal homesteads. Performances are typically in the afternoon.
-
-*   **Option 3 (Half Day): Maasai Market**
-    *   Dive into the vibrant, colorful chaos of a local Maasai Market to bargain for crafts, jewelry, and textiles. The market moves to different locations daily; check the schedule for the day you plan to go.
-
-*   **Option 4 (Half Day): Oloolua Nature Trail**
-    *   A hidden gem in Karen, this trail offers a peaceful walk through an indigenous forest, complete with a waterfall and caves. It's less crowded than Karura and perfect for a quiet morning.
-
----
-
-### **Day 11: Tuesday, 28th October 2025 - Last Impressions & Farewell Dinner**
-
-*   **Morning: Your Choice**
-    *   **Activity:** Revisit a favorite spot (perhaps one last visit to the giraffes?) or do some last-minute shopping at Marula Studios for unique gifts made from recycled materials.
-
-*   **Afternoon: Pack & Relax**
-    *   **Activity:** Enjoy a final afternoon relaxing at your hotel. Consider requesting a late check-out to accommodate your late-night flight.
-
-*   **6:30 PM - 8:30 PM: Farewell Dinner**
-    *   **Dining:** Enjoy a memorable farewell dinner. **Tamarind Nairobi** is an excellent choice, known for its seafood and stunning location in a villa in Karen.
-
-*   **9:00 PM onwards: Transfer to Airport**
-    *   **Activity:** Your pre-booked driver will pick you up from the restaurant or hotel for your transfer to NBO. Plan to arrive at the airport at least 3 hours before your flight.
-
----
-
-### **Day 12: Wednesday, 29th October 2025 - Departure**
-
-*   **Early Morning (1:35 AM - 4:30 AM):** Depart from NBO, filled with incredible memories of your Kenyan wildlife adventure.
-
----
-
-### **⭐ Essential Prior Booking Information**
-
-To ensure a smooth and enjoyable trip, booking the following in advance is crucial:
-
-| Activity / Service | Booking Details | Recommended Lead Time |
-| :--- | :--- | :--- |
-| **Sheldrick Wildlife Trust** | Book your public visit ticket online via their official website. Tickets sell out weeks, sometimes months, in advance. | 2-3 months prior |
-| **Nairobi National Park Vehicle** | Arrange a 4x4 safari vehicle with a pop-up roof and a knowledgeable guide through a local tour operator or your hotel. | At least 2 weeks prior |
-| **Day Trip (Lake Naivasha)** | Book a full-day package with a reputable tour company (e.g., Viator, GetYourGuide, or a local operator like Perfect Wilderness Tours). | 2-4 weeks prior |
-| **Kiambethu Tea Farm** | Reservations are mandatory. Book directly through their website or by phone. Their tours are very popular and have limited spots. | 1-2 months prior |
-| **Key Restaurant Reservations** | For popular restaurants like **The Talisman**, **Carnivore**, and **Tamarind**, it is highly advisable to book a table a few days in advance, especially for dinner. | 1-2 weeks prior |
-| **Airport Transfers & Driver** | Pre-book your airport transfers and consider hiring a car and driver for your full stay for maximum convenience and safety. | 2-4 weeks prior |
-| **eTA for Kenya** | As a U.S. citizen, you must apply for an Electronic Travel Authorisation (eTA) online before you travel. Do not leave this to the last minute. | At least 1 month prior |
-
-I hope this detailed itinerary helps you envision your incredible journey. Enjoy the magic of Nairobi
+Enjoy every moment of your incredible journey through the *Cidade Maravilhosa*
