@@ -1,131 +1,153 @@
-# ✈️ Your Ultimate Travel Plan: Rio de Janeiro Adventure 🇧🇷
+# 🇳🇬 Your Comprehensive Business Travel Plan: New Jersey to Lagos & Abuja
 
-Olá! As your expert travel planner, I have synthesized all the details of your requested trip to craft the definitive guide for your journey from Zanzibar to the *Cidade Maravilhosa* (Marvelous City), Rio de Janeiro. This plan is tailored specifically to your interests in culture, nature, beaches, art, and off-the-beaten-path experiences, all while adhering to your budget and preferences.
+**Prepared for:** 1 Business Traveler
+**Travel Dates:** Saturday, October 18, 2025 – Saturday, October 25, 2025
+**Total Budget:** $7,800
+**Focus:** Business, Technology, Research, and Professional Development
 
-Get ready for an unforgettable 12-night exploration of one of the world's most vibrant cities!
-
----
-
-### **🌍 Trip Overview**
-
-*   **Destination:** Rio de Janeiro, Brazil
-*   **Origin:** Zanzibar, Tanzania
-*   **Travel Dates:** Friday, 17th October 2025 – Wednesday, 29th October 2025
-*   **Trip Duration:** 13 Days, 12 Nights
-*   **Traveler(s):** Plan based on 1 person (can be adjusted)
-*   **Total Budget:** **$7,800 USD**
-*   **Pace:** Balanced & Immersive
-*   **Key Interests:** 🎭 Culture & History, 🌿 Nature & Wildlife, 🏝️ Beaches & Coast, 🎨 Art & Culture, 🗺️ Off-the-beaten-path
-*   **Accommodation Style:** Airbnb / Vacation Rental in a quiet area.
-*   **Local Transport:** Taxis / Ride-sharing apps.
-
-### **✈️ Flight & Travel Time Details**
-
-Your journey from Zanzibar (ZNZ) to Rio de Janeiro (GIG) will be a long-haul international flight involving at least one layover.
-
-*   **Estimated Travel Time:** The most efficient one-stop routes will have a total travel duration of approximately **22 to 24 hours**, including layover time.
-*   **Recommended Airline:** For the best balance of travel time, comfort, and cost, **Qatar Airways** via Doha (DOH) is the top recommendation. It offers a convenient schedule and excellent service. For a more budget-conscious option, **Ethiopian Airlines** is a fantastic choice.
+Welcome! As your expert travel planner, I have synthesized all the necessary information to create a detailed and optimized financial and logistical plan for your upcoming business trip to Nigeria. This report covers your international and domestic travel, premium accommodation, a tailored daily itinerary including your required trip to Abuja, and a complete financial breakdown to ensure you stay within your budget while maximizing your professional objectives.
 
 ---
 
-## 💰 Your Comprehensive Financial Plan
+### ✈️ Part 1: Travel & Logistics
 
-This budget is designed for a comfortable solo traveler experience, allowing you to enjoy everything on your itinerary without financial stress. It is structured to stay within your **$7,800 total budget**.
+This section outlines your primary travel arrangements, from flight times to your accommodation strategy.
 
-### **📊 Budget Breakdown**
+#### **Estimated Travel Time ⏳**
+The estimated travel time from New Jersey (EWR) to Lagos (LOS) is approximately **13 to 16 hours**, including one layover. The fastest connection is typically via Europe.
 
-| Expense Category | Estimated Cost (USD) | Percentage of Budget | Notes |
+#### **Recommended Flights 🛫**
+To balance efficiency and cost, the **Lufthansa** option is recommended for your international travel. For the mandatory trip to Abuja, a reliable local carrier like Air Peace is suggested.
+
+*   **International Flight (Round Trip): New Jersey ↔ Lagos**
+    *   **Airline:** Lufthansa
+    *   **Estimated Cost:** ~$1,350
+    *   **Outbound (Oct 18):** EWR → FRA → LOS (Total Duration: 15h 30m)
+    *   **Return (Oct 25):** LOS → FRA → EWR (Total Duration: 14h 00m)
+
+*   **Domestic Flight (Round Trip): Lagos ↔ Abuja**
+    *   **Airlines:** Air Peace, Ibom Air, or similar
+    *   **Estimated Cost:** ~$200
+    *   **Purpose:** To attend the hacknight event in Abuja. This flight should be booked for Day 4 of your itinerary (Oct 22), returning on Day 5 (Oct 23).
+
+#### **Accommodation Strategy 🏡**
+Your preference is for a secure and quiet Airbnb/Vacation Rental with excellent amenities for a business traveler. Based on your budget of ~$300/night for 6 nights in Lagos and one night in Abuja, here is the plan:
+
+*   **Lagos (6 nights):**
+    *   **Location:** **Ikoyi or Victoria Island**. These neighborhoods are secure, relatively quiet, and central to your business, tech, and networking activities. They are also known for their reliable infrastructure.
+    *   **Recommendation:** A premium, serviced 1 or 2-bedroom apartment. Look for listings that explicitly mention **24/7 power (generator/inverter)**, **high-speed fiber optic internet**, and a **dedicated workspace**. The **"Ikoyi Club Executive Suite"** or similar properties would be ideal if they fit within the budget.
+
+*   **Abuja (1 night):**
+    *   **Location:** **Wuse II or Maitama**. These are secure, central districts with a great selection of business hotels.
+    *   **Recommendation:** A reputable business hotel like the **Transcorp Hilton Abuja** or **The Envoy Hotel** for comfort, security, and convenience.
+
+#### **Visa & Pre-Travel Checklist ✅**
+*   **Nigerian Business Visa:** A visa is **required** for US citizens. The application process should be started at least 2-3 months before your trip. The estimated cost is ~$250.
+*   **Vaccinations:** Consult a travel clinic 4-6 weeks prior. A Yellow Fever vaccination is mandatory. Malaria prophylaxis is highly recommended.
+*   **Travel Insurance:** Comprehensive health and travel insurance is essential.
+
+---
+
+### 💰 Part 2: Financial Plan & Budget Breakdown
+
+This financial plan is designed to fit comfortably within your **$7,800 budget**, leaving a significant contingency fund for networking and unforeseen opportunities.
+
+#### **Total Budget Overview 📊**
+*   **Total Allotted Budget:** **$7,800**
+*   **Estimated Grand Total:** **$5,780**
+*   **Contingency & Networking Fund:** **$2,020** (This buffer is crucial for professional flexibility)
+
+#### **Detailed Cost Breakdown 💵**
+| Category | Item Description | Estimated Cost (USD) | Notes |
 | :--- | :--- | :--- | :--- |
-| **✈️ Flights** | $1,200 | 15% | Round-trip, based on the premium Qatar Airways option. |
-| **🏡 Accommodation** | $3,000 | 38% | 12 nights in a high-quality, quiet Airbnb. |
-| **🍽️ Food & Dining** | $1,500 | 19% | Daily meals, fine dining, drinks, and your Hilton dinner. |
-| **🚕 Local Transportation** | $600 | 8% | All travel within Rio via ride-sharing/taxis. |
-| **🎟️ Activities & Tours**| $500 | 6% | Pre-booked tours, entrance fees, and experiences. |
-| **Subtotal** | **$6,800** | **87%** | **Total planned expenditure.** |
-| **🛡️ Contingency Fund** | **$1,000** | **13%** | For unforeseen costs, shopping, tips, and splurges. |
-| **TOTAL BUDGET** | **$7,800** | **100%** | **Your financial plan for the trip.** |
-
-### **💸 Detailed Cost Analysis**
-
-*   **Accommodation ($250/night):** This budget comfortably secures a stylish and safe Airbnb in a neighborhood that matches your "no noisy places" preference. I recommend focusing your search on **Jardim Botânico** (serene, green, close to nature and art) or a quiet residential street in **Santa Teresa** for a bohemian, local feel. This ensures tranquility while keeping you connected to the city's highlights.
-*   **Food & Dining ($125/day):** This generous allowance covers a full range of culinary experiences. It includes your special **dinner reservation at the Hilton Hotel on October 20th**, other fine dining splurges (like Aprazível), daily meals at fantastic local restaurants, and casual snacks and drinks at beachside kiosks and *botecos*.
-*   **Local Transportation ($50/day):** This budget fully covers your preference for using taxis and ride-sharing apps (like Uber, which is widely available and safe). It includes your airport transfers and all city travel, including the longer day trip to the Prainha & Grumari beaches.
-*   **Activities & Tours ($500):** This fund covers all the essential experiences in your itinerary: tickets for Christ the Redeemer and Sugarloaf Mountain, guided tours of Tijuca Forest and a favela, museum entries, a boat trip, and other small rentals or fees.
+| **Pre-Travel Essentials** | **Sub-total** | **$700** | Costs incurred before departure. |
+| | Nigerian Business Visa Application & Fees | $250 | Apply well in advance. |
+| | Recommended Vaccinations & Malaria Prophylaxis | $300 | Consult with a travel clinic. |
+| | Comprehensive Travel & Health Insurance | $150 | Essential for medical and trip cancellation coverage. |
+| **Flights** | **Sub-total** | **$1,550** | Includes both international and domestic flights. |
+| | Round-trip International Flight: New Jersey ↔ Lagos | $1,350 | Based on the balanced Lufthansa option. |
+| | Round-trip Domestic Flight: Lagos ↔ Abuja | $200 | For attending the hacknight. |
+| **Accommodation** | **Sub-total** | **$1,950** | 7 nights total accommodation. |
+| | Airbnb/Vacation Rental in Lagos (6 nights @ ~$300/night) | $1,800 | Premium apartment in Ikoyi or Victoria Island. |
+| | Business Hotel in Abuja (1 night) | $150 | Secure hotel in Wuse II or Maitama. |
+| **Daily Living Expenses** | **Sub-total** | **$1,375** | Average daily costs for food and transport. |
+| | Food & Dining (7 days @ ~$145/day) | $1,015 | A mix of networking dinners, business lunches, and casual meals. |
+| | Local Transport: Taxis/Ride-Sharing (Uber/Bolt) | $360 | Estimated $60/day for 6 days in Lagos, covering multiple trips. |
+| **Activities & Professional**| **Sub-total** | **$205** | Costs for planned activities and miscellaneous items. |
+| | Entry Fees (e.g., Lekki Conservation Centre) | $15 | Based on itinerary suggestions. |
+| | Co-working Space Day Pass | $20 | For a productive work session. |
+| | Souvenirs & Shopping | $170 | Discretionary budget for gifts and personal items. |
+| **ESTIMATED GRAND TOTAL** | | **$5,780** | |
 
 ---
 
-## 🗺️ Your Day-by-Day Rio de Janeiro Itinerary
+### 🗓️ Part 3: Detailed 7-Day Business Itinerary
 
-This itinerary is crafted to immerse you in the soul of Rio, balancing iconic sights with authentic local experiences that align with all your interests.
+This itinerary is designed for a productive but manageable pace, incorporating your business interests in Lagos with the required trip to Abuja.
 
-#### **Day 1: Saturday, Oct 18 - Arrival & Sunset Welcome 🏝️**
-*   **Morning/Afternoon:** Arrive at Rio de Janeiro–Galeão Airport (GIG). Take a pre-booked transfer or Uber to your Airbnb. Settle in and refresh.
-*   **Late Afternoon:** Head to **Arpoador rock**, nestled between Ipanema and Copacabana. This is the classic local spot to watch a breathtaking sunset over the Dois Irmãos mountains. Join the crowd in the tradition of applauding as the sun disappears.
-*   **Evening:** Enjoy a welcome dinner in the sophisticated neighborhood of **Leblon**.
-    *   **Recommendation:** **Zazá Bistrô Tropical** for its magical ambiance and creative Brazilian-fusion cuisine.
+#### **Day 1: Sunday, Oct 19 - Arrival & Acclimatization**
+*   **Afternoon (5:30 PM):** Arrive at Murtala Muhammed Int'l Airport (LOS).
+*   **Evening (7:00 PM):** A pre-booked car service will provide a secure transfer to your Airbnb in Ikoyi/Victoria Island. Check in and settle.
+*   **Dinner (8:30 PM):** Enjoy a relaxed welcome dinner. A low-key meal at a nearby restaurant or ordering in is recommended after a long journey.
 
-#### **Day 2: Sunday, Oct 19 - Conquering Rio's Icons 🌿**
-*   **Morning:** Take an early train up Corcovado Mountain to the magnificent **Christ the Redeemer** statue. Going early helps you avoid the biggest crowds and enjoy clearer morning views. (Book train tickets online in advance).
-*   **Lunch:** Head to the hilltop neighborhood of Santa Teresa for a memorable meal.
-    *   **Recommendation:** **Aprazível**. A stunning restaurant with incredible views and Amazonian-inspired cuisine. (Reservations are essential).
-*   **Afternoon:** Ascend **Sugarloaf Mountain (Pão de Açúcar)** via the two-stage cable car. The 360-degree views at sunset are unforgettable. (Book tickets online to skip lines).
-*   **Evening:** Experience a true local tradition at **Bar Urca**. Grab a beer and savory snacks from the counter and enjoy them on the sea wall overlooking the calm waters of the bay.
+#### **Day 2: Monday, Oct 20 - Lagos Tech & Innovation Deep Dive**
+*   **Morning (9:00 AM - 1:00 PM):** Tour "Yabacon Valley." Schedule visits to key tech hubs like **Co-Creation Hub (CcHUB)** and **Impact Hub Lagos** to connect with the local startup ecosystem. (Requires advance scheduling).
+*   **Lunch (1:00 PM):** Experience an authentic Nigerian meal at **White House Hotel** in Yaba, a popular spot for the local tech community.
+*   **Afternoon (3:00 PM - 5:00 PM):** Head to a co-working space like **Workstation** in Victoria Island for networking and to catch up on work.
+*   **Dinner (7:30 PM):** Host a networking dinner at **RSVP Lagos**, a chic and upscale venue perfect for business discussions.
 
-#### **Day 3: Monday, Oct 20 - History, Art & Your Special Evening 🎭**
-*   **Morning:** Explore the **Centro Histórico** (Historic Downtown). Admire the architecture of the Theatro Municipal, visit the National Library, and step back in time with a coffee at the opulent **Confeitaria Colombo**.
-*   **Afternoon:** Ride the charming yellow **Santa Teresa Tram** up the hill. Wander the cobblestone streets, discover artist studios, and admire the vibrant street art and decaying mansions that give this area its bohemian soul.
-*   **Evening:** **Your Special Reservation!** Head to Copacabana for your confirmed dinner at the **Hilton Hotel**. This is the perfect evening for an elegant dining experience with stunning views of the famous beach.
+#### **Day 3: Tuesday, Oct 21 - Corporate & Financial Sector Engagement**
+*   **Morning (9:30 AM - 12:30 PM):** Attend scheduled meetings in the Victoria Island financial district, home to major banks and corporations.
+*   **Lunch (12:30 PM):** A power lunch at **Shiro Restaurant & Bar**, an impressive oceanfront location ideal for high-level meetings.
+*   **Afternoon (2:30 PM - 4:30 PM):** Take a pre-arranged tour of **Eko Atlantic City** to witness the future of African commerce and urban development.
+*   **Evening:** Attend an exclusive networking event or have informal business discussions at the refined lounge of **The George Hotel, Ikoyi**.
 
-#### **Day 4: Tuesday, Oct 21 - Urban Rainforest Immersion 🌿**
-*   **Morning:** Take a guided jeep tour through the **Tijuca National Forest**, the world's largest urban rainforest. Key stops include the **Vista Chinesa** viewpoint and a refreshing stop at a waterfall like **Cachoeira do Horto**.
-*   **Lunch:** Enjoy a light, delicious lunch in the leafy Jardim Botânico neighborhood.
-    *   **Recommendation:** **La Bicyclette**, at the entrance to the Botanical Garden.
-*   **Afternoon:** Spend a peaceful afternoon wandering through the magnificent **Jardim Botânico** (Botanical Garden). Don't miss the iconic Avenue of Royal Palms and the serene orchid house.
-*   **Evening:** Discover the roots of Bossa Nova. After dinner in Copacabana, find an intimate show at **Beco das Garrafas**, the historic alley where the genre was born.
+#### **Day 4: Wednesday, Oct 22 - Mission to Abuja: Hacknight & Networking**
+*   **Morning (8:00 AM):** Take an early morning flight from Lagos (LOS) to Abuja (ABV).
+*   **Mid-Morning (10:00 AM):** Transfer to your hotel in Wuse II. Check in and freshen up.
+*   **Lunch (12:30 PM):** Have lunch at your hotel or a nearby restaurant.
+*   **Afternoon (2:00 PM - 5:00 PM):** Prepare for the evening event or conduct a pre-arranged meeting with an Abuja-based contact.
+*   **Evening (6:00 PM onwards):** Attend the **Abuja Hacknight**. Engage with the local tech community, network with developers, and participate in the event.
 
-#### **Day 5: Wednesday, Oct 22 - Art, Lagoons & Local Life 🎨**
-*   **Morning:** Visit **Parque Lage**, a beautiful public park featuring a historic mansion (now an art school) with a courtyard framing a perfect view of Christ the Redeemer.
-*   **Lunch:** Enjoy lunch with a view of the Rodrigo de Freitas Lagoon.
-    *   **Recommendation:** **Palaphita Kitch** for its unique Amazonian-themed lounge atmosphere.
-*   **Afternoon:** Join the locals by renting a bike and cycling the scenic 7.5 km path around the **Lagoa Rodrigo de Freitas**.
-*   **Evening:** Immerse yourself in local flavors by taking a **Brazilian cooking class**. It's a fun, hands-on way to connect with the culture.
+#### **Day 5: Thursday, Oct 23 - Return to Lagos & Cultural Immersion**
+*   **Morning (9:00 AM):** Take a morning flight from Abuja (ABV) back to Lagos (LOS).
+*   **Lunch (1:00 PM):** After transferring back to your Lagos base, have lunch at **Yellow Chilli** for celebrated Nigerian cuisine.
+*   **Afternoon (3:00 PM - 5:00 PM):** Immerse yourself in Nigerian creativity with a visit to the magnificent **Nike Art Gallery**.
+*   **Dinner & Show (7:00 PM):** Enjoy dinner at **Terra Kulture**, a cultural hub. Check their schedule in advance for a potential stage play.
 
-#### **Day 6: Thursday, Oct 23 - Wild Atlantic Beaches 🏝️**
-*   **Full Day:** Escape the city to the protected, pristine beaches of **Prainha & Grumari**. This requires a private driver or a specialized tour. These beaches are rugged, beautiful, and a favorite of local surfers.
-*   **Lunch:** Enjoy incredibly fresh seafood with your feet in the sand at a rustic restaurant like **Restaurante Point de Grumari**.
-*   **Evening:** A relaxed dinner in your neighborhood after a full day in the sun.
+#### **Day 6: Friday, Oct 24 - Professional Development & Farewell**
+*   **Full Day:** Dedicate this day to a key professional event. Attend a seminar, trade show, or conference at a venue like the **Eko Convention Centre** or **Landmark Centre** (check event calendars for Oct 2025). This aligns with your interest in industry events and seminars.
+*   **Evening (8:00 PM):** Host a memorable farewell dinner at **NOK by Alara**, celebrating a successful trip with contemporary pan-African cuisine in a stunning architectural setting. (Reservations are essential).
 
-#### **Day 7: Friday, Oct 24 - Community, Culture & Samba Rhythms 🗺️**
-*   **Morning:** Participate in a respectful and insightful **guided tour of a pacified favela** like Rocinha or Vidigal. Choose an ethical tour operator that focuses on community, art, and daily life.
-*   **Lunch:** Head to the **Feira de São Cristóvão**, a massive indoor market dedicated to Brazil's Northeast. Graze on traditional foods and soak in the vibrant culture.
-*   **Evening:** Experience authentic street samba at **Pedra do Sal**, the birthplace of samba. On Friday nights, musicians gather for an informal *roda de samba* (samba circle). It's an energetic and unforgettable cultural event.
+#### **Day 7: Saturday, Oct 25 - Last-Minute Souvenirs & Departure**
+*   **Morning (10:00 AM - 1:00 PM):** Visit the **Lekki Arts & Crafts Market** for authentic Nigerian souvenirs and gifts.
+*   **Lunch (1:00 PM):** Enjoy a final, delicious Nigerian meal at a popular spot like **Bukka Hut**.
+*   **Afternoon:** Return to your accommodation to pack and check out.
+*   **Evening (7:30 PM):** Depart for Murtala Muhammed Int'l Airport (LOS) for your 11:00 PM flight home.
 
-#### **Day 8: Saturday, Oct 25 - A Bay of Islands ⛵**
-*   **Full Day:** See Rio from the water with a **boat tour of Guanabara Bay**. Sail past iconic landmarks like the Rio-Niterói Bridge and the futuristic Niterói Contemporary Art Museum, with stops for swimming in secluded spots.
-*   **Evening:** Indulge in a world-class meal.
-    *   **Recommendation:** **Lasai** (Michelin-starred) or **Mee** (at the Copacabana Palace). (Book far in advance).
+---
 
-#### **Day 9: Sunday, Oct 26 - Markets & Modern Museums 🎨**
-*   **Morning:** Browse for unique handicrafts, art, and souvenirs at the famous **Feira Hippie de Ipanema** (Ipanema Hippie Fair).
-*   **Lunch:** Enjoy a casual beachside lunch from a kiosk on Ipanema beach. Don't miss the fresh coconut water and grilled *queijo coalho* (squeaky cheese on a stick).
-*   **Afternoon:** Explore the revitalized port district and its two stunning museums: the **Museu de Arte do Rio (MAR)** and the futuristic **Museu do Amanhã (Museum of Tomorrow)**.
+### 📍 Part 4: Lagos & Abuja at a Glance: Essential Guide
 
-#### **Day 10: Monday, Oct 27 - Your Day, Your Choice 🌟**
-*   This day is free for you to relax or explore based on your mood.
-    *   **🌿 Nature Option:** Hike up Pedra Bonita for incredible views.
-    *   **🎭 History Option:** Visit the stunningly ornate Mosteiro de São Bento in Centro.
-    *   **🏝️ Relaxation Option:** Have a classic beach day on Ipanema, renting a chair and umbrella.
+Navigating Nigeria will be a smooth experience with this essential local knowledge.
 
-#### **Day 11: Tuesday, Oct 28 - Last Views & Farewell Feast 🍽️**
-*   **Morning:** For one last epic (and less crowded) viewpoint, head to **Mirante Dona Marta**. It offers a perfect panorama of Sugarloaf, Christ the Redeemer, and the city.
-*   **Lunch:** Experience a traditional Brazilian steakhouse, or *churrascaria*.
-    *   **Recommendation:** **Fogo de Chão** in Botafogo for its high-quality meat and fantastic views.
-*   **Afternoon:** Last-minute souvenir shopping and packing.
-*   **Evening:** Enjoy a festive farewell dinner.
-    *   **Recommendation:** **Marius Degustare** in Leme for its flamboyant decor and all-you-can-eat seafood and steak—a true experience!
+#### **Currency & Exchange 💰**
+*   **Currency:** Nigerian Naira (₦, NGN).
+*   **Pro-Tip:** Exchange a small amount of USD ($100-$200) at a reputable Bureau de Change (BDC) at the airport upon arrival. For larger amounts, use a BDC recommended by your hotel. **Avoid street exchanges.** While high-end establishments accept cards, cash is essential for most smaller transactions.
 
-#### **Day 12: Wednesday, Oct 29 - Adeus, Rio! 👋**
-*   **Morning:** Enjoy a final Brazilian coffee and *pão de queijo* (cheese bread) at a local bakery. Take one last stroll through your favorite neighborhood.
-*   **Afternoon:** Head to Galeão International Airport (GIG) for your flight home, filled with incredible memories. (Allow at least 3-4 hours).
+#### **Weather & Packing 🌦️**
+*   **Climate:** Expect warm, humid conditions (30-32°C / 86-90°F) with a chance of short, intense afternoon rain showers.
+*   **Pack:** Lightweight business suits, breathable shirts (cotton/linen), a compact umbrella, a light rain jacket, sunscreen, and insect repellent. A universal travel adapter (Type G/D) and a power bank are crucial.
 
-Have a truly magical and unforgettable trip to Rio de Janeiro
+#### **Health & Safety 🛡️**
+*   **Transport:** **Exclusively use pre-booked car services for airport transfers and ride-hailing apps like Uber or Bolt for city travel.** Always verify the car and driver details before entering.
+*   **Security:** Maintain situational awareness. Avoid displaying valuables openly. Keep your passport and extra cash in your accommodation's safe.
+*   **Health:** Drink only bottled water. Eat at reputable restaurants. Discuss malaria prophylaxis with your doctor before your trip.
+
+#### **Cultural & Business Etiquette 🤝**
+*   **Greetings:** Always begin interactions with a polite greeting ("Good morning/afternoon"). This is a sign of respect.
+*   **Hierarchy:** Age and status are respected. Use formal titles (Mr., Mrs., Dr., Sir, Ma) until invited to be more casual.
+*   **Right Hand Rule:** Give and receive all items, including business cards and money, with your right hand.
+*   **Business Norms:** Business is personal. Expect meetings to start with small talk to build rapport. The dress code is formal and conservative.
+
+Have a productive and successful trip to Nigeria
