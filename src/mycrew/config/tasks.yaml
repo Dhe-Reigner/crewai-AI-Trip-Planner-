@@ -1,13 +1,8 @@
 flight_task:
   description: >
-    Search for available flights from specified US cities (e.g., New York, Chicago, Los Angeles) "
-        "to Kenyan airports such as Nairobi (NBO), Kisumu(KSM),RiftValley(RFV),Maasai Mara(MM),Mount Kenya(MTK),Diani(D) and Mombasa (MBA). "
-        "Provide flight options including departure/arrival times, airlines, duration, and prices."
-
-            {from_city}
-            {destination_city}
-            {date_from}
-            {date_to}
+    Search for available flights from {from_city}"
+        "to {destination_city}. "
+        "Provide flight options including departure/arrival times and compare them to {date_from} and {date_to}, that the traveller wishes to travel, airlines, duration, and prices
   expected_output: >
     "In markdown format:A detailed markdown report a list of flight options with details like airline name, flight number, departure/arrival times, duration, and price."
   agent: flight_Agent
@@ -15,8 +10,8 @@ flight_task:
 
 accommodation_task:
   description: >
-    "Based on the users {budget},{interests} Find and recommend accommodation options in Kenya based on traveler preferences such as budget, location, "
-        "and accommodation type (hotel, Airbnb). Include ratings and approximate costs."
+    "Based on the users {accomodation_style},{budget},{interests} Find and recommend accommodation options in {destination_city} "
+        "Include ratings and approximate costs."
   expected_output: >
     "A curated markdown report of accommodation options with name, type, location, price range, and guest ratings."
   agent: accommodation_Agent
@@ -24,8 +19,8 @@ accommodation_task:
 
 itinerary_task:
   description: >
-    "Based on the users {interests}, create a detailed markdown report on daily itinerary for a trip to Kenya including must-see attractions, activities, "
-        "meal recommendations, and estimated time allocation per activity."
+    "Based on the users {interests}, create a detailed markdown report on daily itinerary for a trip to {destination_city} including must-see attractions, activities, "
+        "meal recommendations, and estimated time allocation per activity and based on their {interests}, if there is need for prior bookings, provide booking info."
   expected_output: >
     "A day-by-day markdown report of itinerary with timings, places to visit, activity descriptions, and dining options."
   agent: itinerary_Agent
@@ -49,6 +44,11 @@ budget_task:
         Departure Date: {date_from}
         Return Date: {date_to}
         Interests: {interests}
+        Accomodation:{accomodation_style}
+        Pace of travel:{pace of travel}
+        Transport:{transport}
+        Number of people to bring along:{number of people to bring along}
+        Must do:{must_do}
         Budget: {budget}
     Estimate the overall trip budget by calculating expected expenses for flights, accommodation, food, transportation, and activities. Provide an expense tracking markdown report.
     """
@@ -65,6 +65,12 @@ planner_task:
     {date_from}
     {date_to}
     {interests}
+    {accomodation_style}
+    {pace of travel}
+    {transport}
+    {number of people to bring along}
+    {must_do}
+    {anything_to_avoid}
     {budget}
      into a detailed markdown report
   expected_output: >

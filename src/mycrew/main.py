@@ -1,93 +1,98 @@
 #!/usr/bin/env python
-import sys
-import warnings
+import subprocess
+import os
 
-from datetime import datetime
-
-from mycrew.crew import Mycrew
-
-
-warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
-
-# This main file is intended to be a way for you to run your
-# crew locally, so refrain from adding unnecessary logic into this file.
-# Replace with inputs you want to test with, it will automatically
-# interpolate any tasks and agents information
-
-
-
-def run(self):
+def run():
     """
-    Run the crew.
+    Run the Streamlit application.
     """
+    # Get the absolute path to the streamlit_app.py file
+    script_path = os.path.join(os.path.dirname(__file__), 'streamlit_app.py')
 
-
-    inputs = {
-        "from_city":"Michigan",
-        "destination_city":"Nairobi",
-        "date_from":"17th October 2025",
-        "date_to":"29th October 2025",
-        "interests":"wildlife,safaris,culture",
-        "budget":"$5900",
-        # 'topic': 'AI LLMs',
-        # 'current_year': str(datetime.now().year)
-    }
+    # Command to run the Streamlit app
+    command = ["streamlit", "run", script_path]
 
     try:
-        Mycrew().crew().kickoff(inputs=inputs)
+        # Execute the command
+        subprocess.run(command, check=True)
+    except FileNotFoundError:
+        print("Error: 'streamlit' command not found.")
+        print("Please make sure Streamlit is installed and in your PATH.")
+    except subprocess.CalledProcessError as e:
+        print(f"An error occurred while running the Streamlit app: {e}")
     except Exception as e:
-        raise Exception(f"An error occurred while running the crew: {e}")
+        print(f"An unexpected error occurred: {e}")
+
+if __name__ == "__main__":
+    run()
 
 
+# #!/usr/bin/env python
+# import sys
+# import warnings
 
-def train():
-    """
-    Train the crew for a given number of iterations.
-    """
-    inputs = {
-        "from_city":"Michigan",
-        "destination_city":"Nairobi",
-        "date_from":"17th October 2025",
-        "date_to":"29th October 2025",
-        "interests":"wildlife,safaris,culture",
-        "budget":"$5900",
-        # 'topic': 'AI LLMs',
-        # 'current_year': str(datetime.now().year)
-    }
-    try:
-        Mycrew().crew().train(n_iterations=int(sys.argv[1]), filename=sys.argv[2], inputs=inputs)
+# from datetime import datetime
 
-    except Exception as e:
-        raise Exception(f"An error occurred while training the crew: {e}")
+# from customer.crew import Customer
 
-def replay():
-    """
-    Replay the crew execution from a specific task.
-    """
-    try:
-        Mycrew().crew().replay(task_id=sys.argv[1])
+# warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
-    except Exception as e:
-        raise Exception(f"An error occurred while replaying the crew: {e}")
+# # This main file is intended to be a way for you to run your
+# # crew locally, so refrain from adding unnecessary logic into this file.
+# # Replace with inputs you want to test with, it will automatically
+# # interpolate any tasks and agents information
 
-def test():
-    """
-    Test the crew execution and returns the results.
-    """
-    inputs = {
-        "from_city":"Michigan",
-        "destination_city":"Nairobi",
-        "date_from":"17th October 2025",
-        "date_to":"29th October 2025",
-        "interests":"wildlife,safaris,culture",
-        "budget":"$5900",
-        # 'topic': 'AI LLMs',
-        # 'current_year': str(datetime.now().year)
-    }
+# def run():
+#     """
+#     Run the crew.
+#     """
+#     inputs = {
+#         'topic': 'AI LLMs',
+#         'current_year': str(datetime.now().year)
+#     }
     
-    try:
-        Mycrew().crew().test(n_iterations=int(sys.argv[1]), eval_llm=sys.argv[2], inputs=inputs)
+#     try:
+#         Customer().crew().kickoff(inputs=inputs)
+#     except Exception as e:
+#         raise Exception(f"An error occurred while running the crew: {e}")
 
-    except Exception as e:
-        raise Exception(f"An error occurred while testing the crew: {e}")
+
+# def train():
+#     """
+#     Train the crew for a given number of iterations.
+#     """
+#     inputs = {
+#         "topic": "AI LLMs",
+#         'current_year': str(datetime.now().year)
+#     }
+#     try:
+#         Customer().crew().train(n_iterations=int(sys.argv[1]), filename=sys.argv[2], inputs=inputs)
+
+#     except Exception as e:
+#         raise Exception(f"An error occurred while training the crew: {e}")
+
+# def replay():
+#     """
+#     Replay the crew execution from a specific task.
+#     """
+#     try:
+#         Customer().crew().replay(task_id=sys.argv[1])
+
+#     except Exception as e:
+#         raise Exception(f"An error occurred while replaying the crew: {e}")
+
+# def test():
+#     """
+#     Test the crew execution and returns the results.
+#     """
+#     inputs = {
+#         "topic": "AI LLMs",
+#         "current_year": str(datetime.now().year)
+#     }
+    
+#     try:
+#         Customer().crew().test(n_iterations=int(sys.argv[1]), eval_llm=sys.argv[2], inputs=inputs)
+
+#     except Exception as e:
+#         raise Exception(f"An error occurred while testing the crew: {e}")
 
