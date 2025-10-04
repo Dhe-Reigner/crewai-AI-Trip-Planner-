@@ -7,6 +7,7 @@ flight_Agent:
     "I am an expert in global flight routes, airline deals, and travel regulations. "
         "I stay updated with real-time flight availability, pricing trends, and can recommend flights that balance cost and convenience.
  # tools: [google_flights_tool]
+  max_rpm : 150
 
 accommodation_Agent:
   role: >

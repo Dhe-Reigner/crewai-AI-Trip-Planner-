@@ -72,31 +72,44 @@ def main():
         # 'current_year': str(datetime.now().year)
     }
 
-            with st.spinner("Generating your personalized travel plan..."):
+    with st.spinner("Generating your personalized travel plan..."):
+        try:
+            # my_crew_instance = Mycrew()
+            # crew_result = my_crew_instance.kickoff(inputs=inputs)
+            my_crew_instance = Mycrew()
+
+            # get the Crew instance from your Mycrew
+            crew_instance = my_crew_instance.crew()
+
+            # then kickoff the crew, passing inputs
+            #crew_result = crew_instance.kickoff(inputs=inputs)
+            try:
+                crew_result = crew_instance.kickoff(inputs=inputs)
+            except litellm.RateLimitError as e:
+                st.error("API quota exceeded. Please try again later or upgrade your plan.")
+
+
+            
+            st.subheader("Your AI-Powered Travel Plan")
+            st.markdown(crew_result)
+
+            # Display results from markdown files
+            st.write("---_---")
+            st.header("Detailed Reports")
+
+            files = ["flight.md", "accomodation.md", "itinery.md", "local_info.md", "budget.md", "planner.md"]
+            for file in files:
                 try:
-                    my_crew_instance = Mycrew()
-                    crew_result = my_crew_instance.kickoff(inputs=inputs)
-                    
-                    st.subheader("Your AI-Powered Travel Plan")
-                    st.markdown(crew_result)
-
-                    # Display results from markdown files
-                    st.write("---_---")
-                    st.header("Detailed Reports")
-
-                    files = ["flight.md", "accomodation.md", "itinery.md", "local_info.md", "budget.md", "planner.md"]
-                    for file in files:
-                        try:
-                            with open(file, 'r') as f:
-                                st.subheader(f"{file.replace('.md', '').replace('_', ' ').title()}")
-                                st.markdown(f.read())
-                        except FileNotFoundError:
-                            st.warning(f"Could not find {file}.")
-                        except Exception as e:
-                            st.error(f"An error occurred while reading {file}: {e}")
-
+                    with open(file, 'r') as f:
+                        st.subheader(f"{file.replace('.md', '').replace('_', ' ').title()}")
+                        st.markdown(f.read())
+                except FileNotFoundError:
+                    st.warning(f"Could not find {file}.")
                 except Exception as e:
-                    st.error(f"An error occurred while running the crew: {e}")
+                    st.error(f"An error occurred while reading {file}: {e}")
+
+        except Exception as e:
+            st.error(f"An error occurred while running the crew: {e}")
 
 if __name__ == "__main__":
     main()
