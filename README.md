@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # crewai-AI-Trip-Planner-
 🌍 AI-powered Travel Planner built with CrewAI. Plan your entire trip to Kenya with intelligent agents for flights, accommodation, itinerary, budgeting, and local tips — all tailored to your preferences.
 
@@ -186,4 +186,24 @@ For support, questions, or feedback regarding the Mycrew Crew or crewAI.
 - [Chat with our docs](https://chatg.pt/DWjSBZn)
 
 Let's create wonders together with the power and simplicity of crewAI.
->>>>>>> d5b410f (Initial commit)
+
+<img width="1366" height="768" alt="Screenshot from 2025-10-05 12-57-43" src="https://github.com/user-attachments/assets/1450d30b-4059-4f03-a6e1-86915790464d" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-10-05 12-57-55" src="https://github.com/user-attachments/assets/9dd3d1f3-13bd-43de-853c-a2e824a5b930" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2025-10-05 12-58-08" src="https://github.com/user-attachments/assets/1a7e8e37-031d-49cf-b1e0-4af66de780fe" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-10-05 12-58-18" src="https://github.com/user-attachments/assets/fe2f3731-f2e6-453b-8611-adb6ec89814c" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2025-10-05 12-58-27" src="https://github.com/user-attachments/assets/1a55c66a-0b8a-4988-b484-57d6bc2b4308" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-10-05 12-58-37" src="https://github.com/user-attachments/assets/87292350-96ec-4e26-ab6e-7613ecd93550" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-10-05 12-58-46" src="https://github.com/user-attachments/assets/963b2b55-0de3-4e14-b406-bd63f934efe3" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2025-10-05 12-58-56" src="https://github.com/user-attachments/assets/a486b4e3-11e5-4c03-a699-28da6ca855e7" />
+
+<img width="1366" height="768" alt="Screenshot from 2025-10-05 12-59-42" src="https://github.com/user-attachments/assets/27fe2e6f-01c7-408f-8fdb-49e48bcc0877" />
