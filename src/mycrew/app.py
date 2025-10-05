@@ -146,9 +146,9 @@ Flight Options
                 st.subheader("Your AI-Powered Travel Plan")
                 st.markdown(crew_result)
 
-                # Display results from markdown files
-                st.write("---_---")
-                st.header("Detailed Reports")
+                # # Display results from markdown files
+                # st.write("---_---")
+                # st.header("Detailed Reports")
 
                 files = ["flight.md", "accomodation.md", "itinery.md", "local_info.md", "budget.md", "planner.md"]
                 combined_content = ""
