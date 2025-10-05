@@ -11,7 +11,7 @@ load_dotenv()
 import os
 
 api_key= os.getenv("GEMINI_API_KEY")
-llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash",api_key=api_key)
+llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash",google_api_key=api_key)
 
 def main():
     st.set_page_config(page_title="AI-Powered Trip Planner", page_icon="✈️")
