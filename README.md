@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # crewai-AI-Trip-Planner-
 🌍 AI-powered Travel Planner built with CrewAI. Plan your entire trip to Kenya with intelligent agents for flights, accommodation, itinerary, budgeting, and local tips — all tailored to your preferences.
 
@@ -186,4 +186,5 @@ For support, questions, or feedback regarding the Mycrew Crew or crewAI.
 - [Chat with our docs](https://chatg.pt/DWjSBZn)
 
 Let's create wonders together with the power and simplicity of crewAI.
->>>>>>> d5b410f (Initial commit)
+
+<img width="1366" height="768" alt="Screenshot from 2025-10-05 12-57-43" src="https://github.com/user-attachments/assets/1450d30b-4059-4f03-a6e1-86915790464d" />
