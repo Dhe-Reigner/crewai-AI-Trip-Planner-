@@ -2,36 +2,43 @@ import streamlit as st
 #from mycrew.crew import Mycrew
 from crew import Mycrew
 from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_groq import ChatGroq
 from dotenv import load_dotenv
 import os
-import litellm
+
+
 
 load_dotenv()
+import os
 
-
-keys  =[
-    os.getenv("GEMINI_API_KEY_POJECT_MARTOZ"),
-    os.getenv("GEMINI_API_KEY_PROJECT_LANGCHAIN101"),
-    os.getenv("GEMINI_API_KEY_PROJECT_MARTO"),
-    os.getenv("GEMINI_API_KEY_PROJECT_KAGEMA")
-]
-api_key_to_use = keys[1]
-litellm.api_key = api_key_to_use
-
-llm = ChatGoogleGenerativeAI(model="gemini-2.5-pro",temperature=0.7,google_api_key=litellm.api_key)
+api_key= os.getenv("GEMINI_API_KEY")
+llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash",api_key=api_key)
 
 def main():
     st.set_page_config(page_title="AI-Powered Trip Planner", page_icon="✈️")
     st.title("✈️ AI-Powered Trip Planner")
 
     st.markdown("""
-    **Plan your next trip with AI!**
 
-    Enter your travel details below, and our AI-powered travel assistant will create a personalized travel plan, including:
-    - Best places to visit
-    - Accommodation & budget planning
-    - Local food recommendations
-    - Transportation & visa details
+Enter your travel details and let our AI-powered travel assistant craft a personalized, end-to-end travel plan just for you. We'll take care of everything:
+
+🛫 
+Flight Options
+
+🏨 Accommodation Recommendations
+
+
+🗺️ Daily Itinerary Planner
+
+
+🌤️ Local Info & Travel Tips
+
+
+💰 Budget Estimator & Expense Tracker
+
+
+🧭 All-in-One Travel Plan
+
     """)
 
     with st.sidebar:
@@ -175,8 +182,8 @@ def main():
                         st.error(f"An error occurred while reading {file}: {e}")
 
 
-            except litellm.RateLimitError as e:
-                    st.error("API quota exceeded. Please try again later or upgrade your plan.")
+            # except litellm.RateLimitError as e:
+            #         st.error("API quota exceeded. Please try again later or upgrade your plan.")
 
 
             except Exception as e:

@@ -27,6 +27,127 @@ if __name__ == "__main__":
     run()
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# #!/usr/bin/env python
+# import sys
+# import warnings
+
+# from datetime import datetime
+
+# from customer.crew import Customer
+
+# warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
+
+# # This main file is intended to be a way for you to run your
+# # crew locally, so refrain from adding unnecessary logic into this file.
+# # Replace with inputs you want to test with, it will automatically
+# # interpolate any tasks and agents information
+
+# def run():
+#     """
+#     Run the crew.
+#     """
+#     inputs = {
+#     'from_city': 'New York',
+#     'destination_city': 'Tokyo',
+#     'date_from': '2025-11-10',
+#     'date_to': '2025-11-20',
+#     'interests': 'culture, food, technology',
+#     'accomodation_style': 'hotel',
+#     'pace_of_travel': 'relaxed',
+#     'transport': 'public transport',
+#     'number_of_people_to_bring_along': 2,
+#     'must_do': 'visit Shibuya Crossing, try sushi',
+#     'anything_to_avoid': 'crowded tourist spots',
+#     'budget': '2000 USD'
+# }
+#     try:
+#         Customer().crew().kickoff(inputs=inputs)
+#     except Exception as e:
+#         raise Exception(f"An error occurred while running the crew: {e}")
+
+
+# def train():
+#     """
+#     Train the crew for a given number of iterations.
+#     """
+#     inputs = {
+#     'from_city': 'New York',
+#     'destination_city': 'Tokyo',
+#     'date_from': '2025-11-10',
+#     'date_to': '2025-11-20',
+#     'interests': 'culture, food, technology',
+#     'accomodation_style': 'hotel',
+#     'pace_of_travel': 'relaxed',
+#     'transport': 'public transport',
+#     'number_of_people_to_bring_along': 2,
+#     'must_do': 'visit Shibuya Crossing, try sushi',
+#     'anything_to_avoid': 'crowded tourist spots',
+#     'budget': '2000 USD'
+# }
+#     try:
+#         Customer().crew().train(n_iterations=int(sys.argv[1]), filename=sys.argv[2], inputs=inputs)
+
+#     except Exception as e:
+#         raise Exception(f"An error occurred while training the crew: {e}")
+
+# def replay():
+#     """
+#     Replay the crew execution from a specific task.
+#     """
+#     try:
+#         Customer().crew().replay(task_id=sys.argv[1])
+
+#     except Exception as e:
+#         raise Exception(f"An error occurred while replaying the crew: {e}")
+
+# def test():
+#     """
+#     Test the crew execution and returns the results.
+#     """
+#     inputs = {
+#     'from_city': 'New York',
+#     'destination_city': 'Tokyo',
+#     'date_from': '2025-11-10',
+#     'date_to': '2025-11-20',
+#     'interests': 'culture, food, technology',
+#     'accomodation_style': 'hotel',
+#     'pace_of_travel': 'relaxed',
+#     'transport': 'public transport',
+#     'number_of_people_to_bring_along': 2,
+#     'must_do': 'visit Shibuya Crossing, try sushi',
+#     'anything_to_avoid': 'crowded tourist spots',
+#     'budget': '2000 USD'
+# }       
+#     try:
+#         Customer().crew().test(n_iterations=int(sys.argv[1]), eval_llm=sys.argv[2], inputs=inputs)
+
+#     except Exception as e:
+#         raise Exception(f"An error occurred while testing the crew: {e}")
+
+
 # #!/usr/bin/env python
 # import sys
 # import warnings
