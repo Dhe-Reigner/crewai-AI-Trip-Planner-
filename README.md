@@ -190,3 +190,6 @@ Let's create wonders together with the power and simplicity of crewAI.
 <img width="1366" height="768" alt="Screenshot from 2025-10-05 12-57-43" src="https://github.com/user-attachments/assets/1450d30b-4059-4f03-a6e1-86915790464d" />
 
 <img width="1366" height="768" alt="Screenshot from 2025-10-05 12-57-55" src="https://github.com/user-attachments/assets/9dd3d1f3-13bd-43de-853c-a2e824a5b930" />
+
+
+<img width="1366" height="768" alt="Screenshot from 2025-10-05 12-58-08" src="https://github.com/user-attachments/assets/1a7e8e37-031d-49cf-b1e0-4af66de780fe" />
