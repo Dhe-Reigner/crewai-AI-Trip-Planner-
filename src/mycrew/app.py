@@ -10,8 +10,8 @@ import os
 load_dotenv()
 import os
 
-api_key= os.getenv("GEMINI_API_KEY")
-llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash",google_api_key=api_key)
+api_key= os.getenv("HUGGINGFACE_API_KEY")
+#llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash",google_api_key=api_key)
 
 def main():
     st.set_page_config(page_title="AI-Powered Trip Planner", page_icon="✈️")
@@ -145,22 +145,27 @@ Flight Options
                 st.subheader("Your AI-Powered Travel Plan")
                 st.markdown(crew_result)
 
-                # # Display results from markdown files
-                # st.write("---_---")
-                # st.header("Detailed Reports")
+                # Display results from markdown files
+                st.write("---_---")
+                st.header("Detailed Reports")
 
-                files = ["flight.md", "accomodation.md", "itinery.md", "local_info.md", "budget.md", "planner.md"]
+                files = ["flight.md", 
+                "accomodation.md", 
+                "itinery.md", 
+                "local_info.md", 
+                "budget.md",
+                 "planner.md"]
                 combined_content = ""
                 
                 for file in files:
                     try:
                         with open(file, 'r') as f:
                             
-                            # st.subheader(f"{file.replace('.md', '').replace('_', ' ').title()}")
-                            # st.markdown(f.read())
+                            st.subheader(f"{file.replace('.md', '').replace('_', ' ').title()}")
+                            st.markdown(f.read())
 
-                            combined_content += f"\n\n"
-                            combined_content += f.read()
+                            # combined_content += f"\n\n"
+                            # combined_content += f.read()
                     except FileNotFoundError:
                             combined_content += f"\n\n"
 
@@ -169,7 +174,7 @@ Flight Options
                             st.download_button(
                                 label="Download Full Travel Plan",
                                 data=combined_content,
-                                file_name="travel_plan.md",
+                                file_name="planner.md",
                                 mime="text/markdown",
                                 icon=":material/download:",
 
